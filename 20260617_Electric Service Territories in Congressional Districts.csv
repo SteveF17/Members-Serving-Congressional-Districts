@@ -1,0 +1,737 @@
+﻿State,Company Type,Company,Name_Part_Affiliation,District,Layer_ID,State_fips,Governor,Gov_party_aff,Senator_1,Senator_1_aff,Senator_1_class,Senator_2,Senator_2_aff,Senator_2_class,Senate_aff
+Alabama,IOU,Southern Co,Jerry Carl (R),AL - 1,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+Alabama,IOU,Southern Co,Barry Moore (R),AL - 2,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+Alabama,IOU,Southern Co,Mike Rogers (R),AL - 3,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+Alabama,IOU,Southern Co,Dale Strong (R),AL - 5,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+Alabama,IOU,Southern Co,Gary Palmer (R),AL - 6,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+Alabama,IOU,Southern Co,Terri Sewell (D),AL - 7,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+Alaska,IOU,Avista Corp,Mary Peltola (D),AK - at Large,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+Arizona,IOU,Pinnacle West Capital Corp,David Schweikert (R),AZ - 1,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+Arizona,IOU,Pinnacle West Capital Corp,Eli Crane (R),AZ - 2,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+Arizona,IOU,UNS Energy Corp,Eli Crane (R),AZ - 2,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+Arizona,IOU,Pinnacle West Capital Corp,Ruben Gallego (D),AZ - 3,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+Arizona,IOU,Pinnacle West Capital Corp,Greg Stanton (D),AZ - 4,515,27,Tim Walz (DFL),Democratic,Amy Klobuchar (DFL),Democratic,1,Tina Smith (DFL),Democratic,2,2D
+Arizona,IOU,Pinnacle West Capital Corp,Andy Biggs (R),AZ - 5,515,27,Tim Walz (DFL),Democratic,Amy Klobuchar (DFL),Democratic,1,Tina Smith (DFL),Democratic,2,2D
+Arizona,IOU,Pinnacle West Capital Corp,Juan Ciscomani (R),AZ - 6,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+Arizona,IOU,UNS Energy Corp,Juan Ciscomani (R),AZ - 6,515,19,Kim Reynolds (R),Republican,Joni Ernst (R),Republican,2,Chuck Grassley (R),Republican,3,2R
+Arizona,IOU,Pinnacle West Capital Corp,Raul Grijalva (D),AZ - 7,515,19,Kim Reynolds (R),Republican,Joni Ernst (R),Republican,2,Chuck Grassley (R),Republican,3,2R
+Arizona,IOU,UNS Energy Corp,Raul Grijalva (D),AZ - 7,515,19,Kim Reynolds (R),Republican,Joni Ernst (R),Republican,2,Chuck Grassley (R),Republican,3,2R
+Arizona,IOU,Pinnacle West Capital Corp,Debbie Lesko (R),AZ - 8,515,19,Kim Reynolds (R),Republican,Joni Ernst (R),Republican,2,Chuck Grassley (R),Republican,3,2R
+Arizona,IOU,Pinnacle West Capital Corp,Paul Gosar (R),AZ - 9,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+Arizona,IOU,UNS Energy Corp,Paul Gosar (R),AZ - 9,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+Arkansas,IOU,Entergy Corp,Rick Crawford (R),AR - 1,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+Arkansas,IOU,Entergy Corp,French Hill (R),AR - 2,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+Arkansas,IOU,American Electric Power Co Inc,Steve Womack (R),AR - 3,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+Arkansas,IOU,Entergy Corp,Steve Womack (R),AR - 3,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+Arkansas,IOU,Liberty,Steve Womack (R),AR - 3,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+Arkansas,IOU,OGE Energy Corp,Steve Womack (R),AR - 3,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+Arkansas,IOU,American Electric Power Co Inc,Bruce Westerman (R),AR - 4,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+Arkansas,IOU,Entergy Corp,Bruce Westerman (R),AR - 4,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+Arkansas,IOU,OGE Energy Corp,Bruce Westerman (R),AR - 4,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+California,IOU,Berkshire Hathaway Energy,Doug LaMalfa (R),CA - 01,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+California,IOU,PG&E Corp,Doug LaMalfa (R),CA - 01,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+California,IOU,Berkshire Hathaway Energy,Jared Huffman (D),CA - 02,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+California,IOU,PG&E Corp,Jared Huffman (D),CA - 02,515,29,Mike Parson (R),Republican,Josh Hawley (R),Republican,1,Eric Schmitt (R),Republican,3,2R
+California,IOU,Edison International,Kevin Kiley (R),CA - 03,515,29,Mike Parson (R),Republican,Josh Hawley (R),Republican,1,Eric Schmitt (R),Republican,3,2R
+California,IOU,Liberty,Kevin Kiley (R),CA - 03,515,29,Mike Parson (R),Republican,Josh Hawley (R),Republican,1,Eric Schmitt (R),Republican,3,2R
+California,IOU,PG&E Corp,Kevin Kiley (R),CA - 03,515,29,Mike Parson (R),Republican,Josh Hawley (R),Republican,1,Eric Schmitt (R),Republican,3,2R
+California,IOU,PG&E Corp,Mike Thompson (D),CA - 04,515,29,Mike Parson (R),Republican,Josh Hawley (R),Republican,1,Eric Schmitt (R),Republican,3,2R
+California,IOU,Edison International,Tom McClintock (R),CA - 05,515,29,Mike Parson (R),Republican,Josh Hawley (R),Republican,1,Eric Schmitt (R),Republican,3,2R
+California,IOU,Liberty,Tom McClintock (R),CA - 05,515,29,Mike Parson (R),Republican,Josh Hawley (R),Republican,1,Eric Schmitt (R),Republican,3,2R
+California,IOU,PG&E Corp,Tom McClintock (R),CA - 05,515,5,Sarah Huckabee-Sanders (R),Republican,Tom Cotton (R),Republican,2,John Boozman (R),Republican,3,2R
+California,IOU,PG&E Corp,Doris Matsui (D),CA - 07,515,5,Sarah Huckabee-Sanders (R),Republican,Tom Cotton (R),Republican,2,John Boozman (R),Republican,3,2R
+California,IOU,PG&E Corp,John Garamendi (D),CA - 08,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+California,IOU,PG&E Corp,Josh Harder (D),CA - 09,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+California,IOU,PG&E Corp,Mark DeSaulnier (D),CA - 10,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+California,IOU,PG&E Corp,Nancy Pelosi (D),CA - 11,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+California,IOU,PG&E Corp,Barbara Lee (D),CA - 12,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+California,IOU,PG&E Corp,John Duarte (R),CA - 13,515,21,Andy Beshear (D),Democratic,Mitch McConnell (R),Republican,2,Rand Paul (R),Republican,3,2R
+California,IOU,PG&E Corp,Eric Swalwell (D),CA - 14,515,21,Andy Beshear (D),Democratic,Mitch McConnell (R),Republican,2,Rand Paul (R),Republican,3,2R
+California,IOU,PG&E Corp,Kevin Mullin (D),CA - 15,515,22,John Bel Edwards (D),Democratic,Bill Cassidy (R),Republican,2,John Kennedy (R),Republican,3,2R
+California,IOU,PG&E Corp,Anna Eshoo (D),CA - 16,515,22,John Bel Edwards (D),Democratic,Bill Cassidy (R),Republican,2,John Kennedy (R),Republican,3,2R
+California,IOU,PG&E Corp,Ro Khanna (D),CA - 17,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+California,IOU,PG&E Corp,Zoe Lofgren (D),CA - 18,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+California,IOU,PG&E Corp,Jimmy Panetta (D),CA - 19,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,Edison International,Kevin McCarthy (R),CA - 20,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,PG&E Corp,Kevin McCarthy (R),CA - 20,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,Edison International,Jim Costa (D),CA - 21,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,PG&E Corp,Jim Costa (D),CA - 21,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,Edison International,David Valadao (R),CA - 22,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,PG&E Corp,David Valadao (R),CA - 22,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,Edison International,Jay Olbernolte (R),CA - 23,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,Edison International,Salud Carbajal (D),CA - 24,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,PG&E Corp,Salud Carbajal (D),CA - 24,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,Edison International,Raul Ruiz (D),CA - 25,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,Edison International,Julia Brownley (D),CA - 26,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,Edison International,Mike Garcia (R),CA - 27,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,Edison International,Judy Chu (D),CA - 28,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,Edison International,Tony Cardenas (D),CA - 29,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,Edison International,Adam Schiff (D),CA - 30,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,Edison International,Grace Napolitano (D),CA - 31,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+California,IOU,Edison International,Brad Sherman (D),CA - 32,515,40,Kevin Stitt (R),Republican,Markwayne Mullin (R),Republican,2,James Lankford (R),Republican,3,2R
+California,IOU,Edison International,Pete Aguilar (D),CA - 33,515,40,Kevin Stitt (R),Republican,Markwayne Mullin (R),Republican,2,ames Lankford (R),Republican,3,2R
+California,IOU,Edison International,Jimmy Gomez (D),CA - 34,515,40,Kevin Stitt (R),Republican,Markwayne Mullin (R),Republican,2,James Lankford (R),Republican,3,2R
+California,IOU,Edison International,Norma Torres (D),CA - 35,515,40,Kevin Stitt (R),Republican,Markwayne Mullin (R),Republican,2,James Lankford (R),Republican,3,2R
+California,IOU,Edison International,Ted Lieu (D),CA - 36,515,47,Bill Lee (R),Republican,Marsha Blackburn (R),Republican,1,Bill Hagerty (R),Republican,2,2R
+California,IOU,Edison International,Sydney Kamlager (D),CA - 37,515,47,Bill Lee (R),Republican,Marsha Blackburn (R),Republican,1,Bill Hagerty (R),Republican,2,2R
+California,IOU,Edison International,Linda Sanchez (D),CA - 38,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+California,IOU,Edison International,Mark Takano (D),CA - 39,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+California,IOU,Edison International,Young Kim (R),CA - 40,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+California,IOU,San Diego Gas & Electric Co,Young Kim (R),CA - 40,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+California,IOU,Edison International,Ken Calverty (R),CA - 41,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+California,IOU,Edison International,Robert Garcia (D),CA - 42,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+California,IOU,Edison International,Maxine Waters (D),CA - 43,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+California,IOU,Edison International,Nanette Barragan (D),CA - 44,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+California,IOU,Edison International,Michelle Steel (R),CA - 45,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+California,IOU,Edison International,Lou Correa (D),CA - 46,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+California,IOU,Edison International,Katie Porter (D),CA - 47,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+California,IOU,Edison International,Darrell Issa (R),CA - 48,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+California,IOU,San Diego Gas & Electric Co,Darrell Issa (R),CA - 48,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+California,IOU,San Diego Gas & Electric Co,Mike Levin (D),CA - 49,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+California,IOU,San Diego Gas & Electric Co,Scott Peters (D),CA - 50,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+California,IOU,San Diego Gas & Electric Co,Sara Jacobs (D),CA - 51,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+California,IOU,San Diego Gas & Electric Co,Josh Vargas (D),CA - 52,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Colorado,IOU,Xcel Energy Inc,Diana DeGette (D),CO - 1,515,51,Glenn Youngkin (R),Republican,Tim Kaine (D),Democratic,1,Mark Warner (D),Democratic,2,2D
+Colorado,IOU,Xcel Energy Inc,Joe Neguse (D),CO - 2,515,51,Glenn Youngkin (R),Republican,Tim Kaine (D),Democratic,1,Mark Warner (D),Democratic,2,2D
+Colorado,IOU,Black Hills Corp,Lauren Boebert (R),CO - 3,515,51,Glenn Youngkin (R),Republican,Tim Kaine (D),Democratic,1,Mark Warner (D),Democratic,2,2D
+Colorado,IOU,Xcel Energy Inc,Lauren Boebert (R),CO - 3,515,54,Jim Justice (R),Republican,Joe Mancin (D),Democratic,1,Jim Justice (R),Republican,2,1D1R
+Colorado,IOU,Black Hills Corp,Ken Buck (R),CO - 4,515,54,Jim Justice (R),Republican,Joe Mancin (D),Democratic,1,Jim Justice (R),Republican,2,1D1R
+Colorado,IOU,Xcel Energy Inc,Ken Buck (R),CO - 4,515,54,Jim Justice (R),Republican,Joe Mancin (D),Democratic,1,Jim Justice (R),Republican,2,1D1R
+Colorado,IOU,Black Hills Corp,Doug Lamborn (R),CO - 5,515,9,Ned Lamont (D),Democratic,Chris Murphy (D),Democratic,1,Richard Blumenthal (D),Democratic,3,2D
+Colorado,IOU,Xcel Energy Inc,Jason Crow (D),CO - 6,515,9,Ned Lamont (D),Democratic,Chris Murphy (D),Democratic,1,Richard Blumenthal (D),Democratic,3,2D
+Colorado,IOU,Black Hills Corp,Brittany Pettersen (D),CO - 7,515,23,Janet Mills (D),Democratic,Angus King (I),Independent,1,Susan Collins (R),Republican,2,1I1R
+Colorado,IOU,Xcel Energy Inc,Brittany Pettersen (D),CO - 7,515,23,Janet Mills (D),Democratic,Angus King (I),Independent,1,Susan Collins (R),Republican,2,1I1R
+Colorado,IOU,Xcel Energy Inc,Yadira Caraveo (D),CO - 8,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Connecticut,IOU,Eversource Energy,John Larson (D),CT - 1,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Connecticut,IOU,Eversource Energy,Joe Courtney (D),CT - 2,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Connecticut,IOU,Avangrid Inc,Rosa DeLauro (D),CT - 3,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Connecticut,IOU,Eversource Energy,Rosa DeLauro (D),CT - 3,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Connecticut,IOU,Avangrid Inc,Jim Himes (D),CT - 4,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Connecticut,IOU,Eversource Energy,Jim Himes (D),CT - 4,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Connecticut,IOU,Eversource Energy,Jahana Hayes (D),CT - 5,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Delaware,IOU,Exelon Corp,Lisa Blunt-Rochester (D),DE - at Large,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+District of Columbia,IOU,Exelon Corp,Elanor Holmes Norton (D),DC - at Large,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Florida,IOU,NextEra Energy Inc,Matt Gaetz (R),FL - 01,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Florida,IOU,Duke Energy Corp,Neal Dunn (R),FL - 02,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Florida,IOU,Florida Public Utilities Co,Neal Dunn (R),FL - 02,515,2,Mike Dunleavy (R),Republican,Dan Sullivan (R),Republican,2,Lisa Murkowski (R),Republican,3,2R
+Florida,IOU,NextEra Energy Inc,Neal Dunn (R),FL - 02,515,16,Brad Little (R),Republican,Jim Risch (R),Republican,2,Mike Crapo (R),Republican,3,2R
+Florida,IOU,Duke Energy Corp,Kat Cammack (R),FL - 03,515,53,Jay Inslee (D),Democratic,Maria Cantwell (D),Democratic,1,Patty Murray (D),Democratic,3,2D
+Florida,IOU,NextEra Energy Inc,Kat Cammack (R),FL - 03,515,53,Jay Inslee (D),Democratic,Maria Cantwell (D),Democratic,1,Patty Murray (D),Democratic,3,2D
+Florida,IOU,Florida Public Utilities Co,Aaron Bean (R),FL - 04,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Florida,IOU,NextEra Energy Inc,Aaron Bean (R),FL - 04,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Florida,IOU,NextEra Energy Inc,John Rutherford (R),FL - 05,515,16,Brad Little (R),Republican,Jim Risch (R),Republican,2,Mike Crapo (R),Republican,3,2R
+Florida,IOU,Duke Energy Corp,Michael Waltz (R),FL - 06,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+Florida,IOU,NextEra Energy Inc,Michael Waltz (R),FL - 06,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+Florida,IOU,Duke Energy Corp,Cory Mills (R),FL - 07,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+Florida,IOU,NextEra Energy Inc,Cory Mills (R),FL - 07,515,19,Kim Reynolds (R),Republican,Joni Ernst (R),Republican,2,Chuck Grassley (R),Republican,3,2R
+Florida,IOU,Duke Energy Corp,Bill Posey (R),FL - 08,515,19,Kim Reynolds (R),Republican,Joni Ernst (R),Republican,2,Chuck Grassley (R),Republican,3,2R
+Florida,IOU,NextEra Energy Inc,Bill Posey (R),FL - 08,515,19,Kim Reynolds (R),Republican,Joni Ernst (R),Republican,2,Chuck Grassley (R),Republican,3,2R
+Florida,IOU,Duke Energy Corp,Darren Soto (D),FL - 09,515,19,Kim Reynolds (R),Republican,Joni Ernst (R),Republican,2,Chuck Grassley (R),Republican,3,2R
+Florida,IOU,Duke Energy Corp,Maxwell Frost (D),FL - 10,515,32,Joe Lombardo (R),Republican,Jacky Rosen (D),Democratic,1,Catherine Cortez Mastro (D),Democratic,3,2D
+Florida,IOU,NextEra Energy Inc,Maxwell Frost (D),FL - 10,515,32,Joe Lombardo (R),Republican,Jacky Rosen (D),Democratic,1,Catherine Cortez Mastro (D),Democratic,3,2D
+Florida,IOU,Duke Energy Corp,Daniel Webster (R),FL - 11,515,32,Joe Lombardo (R),Republican,Jacky Rosen (D),Democratic,1,Catherine Cortez Mastro (D),Democratic,3,2D
+Florida,IOU,TECO Energy Inc,Daniel Webster (R),FL - 11,515,32,Joe Lombardo (R),Republican,Jacky Rosen (D),Democratic,1,Catherine Cortez Mastro (D),Democratic,3,2D
+Florida,IOU,Duke Energy Corp,Gus Bilirakis (R),FL - 12,515,32,Joe Lombardo (R),Republican,Jacky Rosen (D),Democratic,1,Catherine Cortez Mastro (D),Democratic,3,2D
+Florida,IOU,TECO Energy Inc,Gus Bilirakis (R),FL - 12,515,41,Tina Kotek (D),Democratic,Jeff Merkley (D),Democratic,2,Ron Wyden (D),Democratic,3,2D
+Florida,IOU,Duke Energy Corp,Anna Paulina Luna (R),FL - 13,515,41,Tina Kotek (D),Democratic,Jeff Merkley (D),Democratic,2,Ron Wyden (D),Democratic,3,2D
+Florida,IOU,TECO Energy Inc,Anna Paulina Luna (R),FL - 13,515,41,Tina Kotek (D),Democratic,Jeff Merkley (D),Democratic,2,Ron Wyden (D),Democratic,3,2D
+Florida,IOU,Duke Energy Corp,Kathy Castor (D),FL - 14,515,41,Tina Kotek (D),Democratic,Jeff Merkley (D),Democratic,2,Ron Wyden (D),Democratic,3,2D
+Florida,IOU,TECO Energy Inc,Kathy Castor (D),FL - 14,515,41,Tina Kotek (D),Democratic,Jeff Merkley (D),Democratic,2,Ron Wyden (D),Democratic,3,2D
+Florida,IOU,Duke Energy Corp,Laurel Lee (R),FL - 15,515,41,Tina Kotek (D),Democratic,Jeff Merkley (D),Democratic,2,Ron Wyden (D),Democratic,3,2D
+Florida,IOU,TECO Energy Inc,Laurel Lee (R),FL - 15,515,49,Spencer Cox (R),Republican,Mitt Romney (R),Republican,1,Mike Lee (R),Republican,3,2R
+Florida,IOU,NextEra Energy Inc,Vern Buchanan (R),FL - 16,515,49,Spencer Cox (R),Republican,Mitt Romney (R),Republican,1,Mike Lee (R),Republican,3,2R
+Florida,IOU,TECO Energy Inc,Vern Buchanan (R),FL - 16,515,49,Spencer Cox (R),Republican,Mitt Romney (R),Republican,1,Mike Lee (R),Republican,3,2R
+Florida,IOU,NextEra Energy Inc,Greg Steube (R),FL - 17,515,49,Spencer Cox (R),Republican,Mitt Romney (R),Republican,1,Mike Lee (R),Republican,3,2R
+Florida,IOU,Duke Energy Corp,Scott Franklin (R),FL - 18,515,53,Jay Inslee (D),Democratic,Maria Cantwell (D),Democratic,1,Patty Murray (D),Democratic,3,2D
+Florida,IOU,NextEra Energy Inc,Scott Franklin (R),FL - 18,515,53,Jay Inslee (D),Democratic,Maria Cantwell (D),Democratic,1,Patty Murray (D),Democratic,3,2D
+Florida,IOU,TECO Energy Inc,Scott Franklin (R),FL - 18,515,56,Mark Gordon (R),Republican,John Barrasso (R),Republican,1,Cynthia Lummis (R),Republican,2,2R
+Florida,IOU,NextEra Energy Inc,Byron Donalds (R),FL - 19,515,8,Jared Polis (D),Democratic,John Hickenlooper (D),Democratic,2,Michael Bennet (D),Democratic,3,2D
+Florida,IOU,NextEra Energy Inc,Jared Moskowitz (D),FL - 20,515,8,Jared Polis (D),Democratic,John Hickenlooper (D),Democratic,2,Michael Bennet (D),Democratic,3,2D
+Florida,IOU,NextEra Energy Inc,Brian Mast (R),FL - 21,515,8,Jared Polis (D),Democratic,John Hickenlooper (D),Democratic,2,Michael Bennet (D),Democratic,3,2D
+Florida,IOU,NextEra Energy Inc,Lois Frankel (D),FL - 22,515,8,Jared Polis (D),Democratic,John Hickenlooper (D),Democratic,2,Michael Bennet (D),Democratic,3,2D
+Florida,IOU,NextEra Energy Inc,Jared Moskowitz (D),FL - 23,515,46,Kristi Noem (R),Republican,Mike Rounds (R),Republican,2,John Thune (R),Republican,3,2R
+Florida,IOU,NextEra Energy Inc,Frederica Wilson (D),FL - 24,515,56,Mark Gordon (R),Republican,John Barrasso (R),Republican,1,Cynthia Lummis (R),Republican,2,2R
+Florida,IOU,NextEra Energy Inc,Debbie Wasserman Schultz (D),FL - 25,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+Florida,IOU,NextEra Energy Inc,Mario Diaz-Balart (R),FL - 26,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Florida,IOU,NextEra Energy Inc,Maria Elvira Salazar (R),FL - 27,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Florida,IOU,NextEra Energy Inc,Carlos Gimenez (R),FL - 28,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Georgia,IOU,Southern Co,Buddy Carter (R),GA - 01,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Georgia,IOU,Southern Co,Sanford Bishop (D),GA - 02,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Georgia,IOU,Southern Co,Drew Ferguson (R),GA - 03,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Georgia,IOU,Southern Co,Hank Johnson (D),GA - 04,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Georgia,IOU,Southern Co,Nikema Williams (D),GA - 05,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Georgia,IOU,Southern Co,Rich McCormick (R),GA - 06,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Georgia,IOU,Southern Co,Lucy McBath (D),GA - 07,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Georgia,IOU,Southern Co,Austin Scott (R),GA - 08,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Georgia,IOU,Southern Co,Andrew Clyde (R),GA - 09,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Georgia,IOU,Southern Co,Mike Collins (R),GA - 10,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Georgia,IOU,Southern Co,Barry Loudermilk (R),GA - 11,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Georgia,IOU,Southern Co,Rick W. Allen (R),GA - 12,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Georgia,IOU,Southern Co,David Scott (D),GA - 13,515,22,John Bel Edwards (D),Democratic,Bill Cassidy (R),Republican,2,John Kennedy (R),Republican,3,2R
+Georgia,IOU,Southern Co,Marjorie Taylor Greene (R),GA - 14,515,22,John Bel Edwards (D),Democratic,Bill Cassidy (R),Republican,2,John Kennedy (R),Republican,3,2R
+Hawaii,IOU,Hawaiian Electric Industries Inc,Ed Case (D),HI - 1,515,22,John Bel Edwards (D),Democratic,Bill Cassidy (R),Republican,2,John Kennedy (R),Republican,3,2R
+Hawaii,IOU,Hawaiian Electric Industries Inc,Jill Tokuda (D),HI - 2,515,22,John Bel Edwards (D),Democratic,Bill Cassidy (R),Republican,2,John Kennedy (R),Republican,3,2R
+Idaho,IOU,Avista Corp,Russ Fulcher (R),ID - 1,515,22,John Bel Edwards (D),Democratic,Bill Cassidy (R),Republican,2,John Kennedy (R),Republican,3,2R
+Idaho,IOU,IDACORP Inc,Russ Fulcher (R),ID - 1,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Idaho,IOU,Berkshire Hathaway Energy,Mike Simpson (R),ID - 2,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Idaho,IOU,IDACORP Inc,Mike Simpson (R),ID - 2,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Illinois,IOU,Exelon Corp,Jonathan Jackson (D),IL - 01,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Illinois,IOU,Ameren Corp,Robin Kelly (D),IL - 02,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Illinois,IOU,Exelon Corp,Robin Kelly (D),IL - 02,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Illinois,IOU,Exelon Corp,Delia Ramirez (D),IL - 03,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Illinois,IOU,Exelon Corp,Chuy Garcia (D),IL - 04,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Illinois,IOU,Exelon Corp,Mike Quigley (D),IL - 05,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Illinois,IOU,Exelon Corp,Sean Casten (D),IL - 06,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+Illinois,IOU,Exelon Corp,Danny K. Davis (D),IL - 07,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+Illinois,IOU,Exelon Corp,Raja Krishnamoorthi (D),IL - 08,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Illinois,IOU,Exelon Corp,Jan Schakowsky (D),IL - 09,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Illinois,IOU,Exelon Corp,Brad Schneider (D),IL - 10,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Illinois,IOU,Exelon Corp,Bill Foster (D),IL - 11,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Illinois,IOU,Ameren Corp,Mike Bost (R),IL - 12,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Illinois,IOU,Mt Carmel Public Utility Co,Mike Bost (R),IL - 12,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Illinois,IOU,Ameren Corp,Nikki Budzinski (D),IL - 13,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Illinois,IOU,Ameren Corp,Lauren Underwood (D),IL - 14,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Illinois,IOU,Exelon Corp,Lauren Underwood (D),IL - 14,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Illinois,IOU,Ameren Corp,Mary Miller (R),IL - 15,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Illinois,IOU,Berkshire Hathaway Energy,Mary Miller (R),IL - 15,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Illinois,IOU,Ameren Corp,Darin LaHood (R),IL - 16,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Illinois,IOU,Berkshire Hathaway Energy,Darin LaHood (R),IL - 16,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Illinois,IOU,Exelon Corp,Darin LaHood (R),IL - 16,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Illinois,IOU,Ameren Corp,Eric Sorensen (D),IL - 17,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Illinois,IOU,Berkshire Hathaway Energy,Eric Sorensen (D),IL - 17,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Illinois,IOU,Exelon Corp,Eric Sorensen (D),IL - 17,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Indiana,IOU,American Electric Power Co Inc,Frank J. Mrvan (D),IN - 1,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Indiana,IOU,NiSource Inc,Frank J. Mrvan (D),IN - 1,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Indiana,IOU,American Electric Power Co Inc,Rudy Yakym (R),IN - 2,515,45,Henry McMaster (R),Republican,Lindsey Graham (R),Republican,2,Tim Scott (R),Republican,3,2R
+Indiana,IOU,Duke Energy Corp,Rudy Yakym (R),IN - 2,515,45,Henry McMaster (R),Republican,Lindsey Graham (R),Republican,2,Tim Scott (R),Republican,3,2R
+Indiana,IOU,NiSource Inc,Rudy Yakym (R),IN - 2,515,45,Henry McMaster (R),Republican,Lindsey Graham (R),Republican,2,Tim Scott (R),Republican,3,2R
+Indiana,IOU,American Electric Power Co Inc,Jim Banks (R),IN - 3,515,45,Henry McMaster (R),Republican,Lindsey Graham (R),Republican,2,Tim Scott (R),Republican,3,2R
+Indiana,IOU,Duke Energy Corp,Jim Banks (R),IN - 3,515,45,Henry McMaster (R),Republican,Lindsey Graham (R),Republican,2,Tim Scott (R),Republican,3,2R
+Indiana,IOU,NiSource Inc,Jim Banks (R),IN - 3,515,51,Glenn Youngkin (R),Republican,Tim Kaine (D),Democratic,1,Mark Warner (D),Democratic,2,2D
+Indiana,IOU,AES Corp ,Jim Baird (R),IN - 4,515,51,Glenn Youngkin (R),Republican,Tim Kaine (D),Democratic,1,Mark Warner (D),Democratic,2,2D
+Indiana,IOU,Duke Energy Corp,Jim Baird (R),IN - 4,515,51,Glenn Youngkin (R),Republican,Tim Kaine (D),Democratic,1,Mark Warner (D),Democratic,2,2D
+Indiana,IOU,NiSource Inc,Jim Baird (R),IN - 4,515,51,Glenn Youngkin (R),Republican,Tim Kaine (D),Democratic,1,Mark Warner (D),Democratic,2,2D
+Indiana,IOU,AES Corp ,Victoria Spartz (R),IN - 5,515,51,Glenn Youngkin (R),Republican,Tim Kaine (D),Democratic,1,Mark Warner (D),Democratic,2,2D
+Indiana,IOU,American Electric Power Co Inc,Victoria Spartz (R),IN - 5,515,51,Glenn Youngkin (R),Republican,Tim Kaine (D),Democratic,1,Mark Warner (D),Democratic,2,2D
+Indiana,IOU,Duke Energy Corp,Victoria Spartz (R),IN - 5,515,51,Glenn Youngkin (R),Republican,Tim Kaine (D),Democratic,1,Mark Warner (D),Democratic,2,2D
+Indiana,IOU,AES Corp ,Greg Pence (R),IN - 6,515,51,Glenn Youngkin (R),Republican,Tim Kaine (D),Democratic,1,Mark Warner (D),Democratic,2,2D
+Indiana,IOU,American Electric Power Co Inc,Greg Pence (R),IN - 6,515,51,Glenn Youngkin (R),Republican,Tim Kaine (D),Democratic,1,Mark Warner (D),Democratic,2,2D
+Indiana,IOU,Duke Energy Corp,Greg Pence (R),IN - 6,515,51,Glenn Youngkin (R),Republican,Tim Kaine (D),Democratic,1,Mark Warner (D),Democratic,2,2D
+Indiana,IOU,AES Corp ,Andre Carson (D),IN - 7,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Indiana,IOU,CenterPoint Energy Inc,Larry Buchson (R),IN - 8,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Indiana,IOU,Duke Energy Corp,Larry Buchson (R),IN - 8,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Indiana,IOU,Duke Energy Corp,Erin Houchin (R),IN - 9,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Iowa,IOU,Alliant Energy Corp,Mariannette Miller-Meeks (R),IA - 1,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Iowa,IOU,Berkshire Hathaway Energy,Mariannette Miller-Meeks (R),IA - 1,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Iowa,IOU,Alliant Energy Corp,Ashley Hinson (R),IA - 2,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Iowa,IOU,Berkshire Hathaway Energy,Ashley Hinson (R),IA - 2,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Iowa,IOU,Alliant Energy Corp,Zach Nunn (R),IA - 3,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+Iowa,IOU,Berkshire Hathaway Energy,Zach Nunn (R),IA - 3,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Iowa,IOU,Alliant Energy Corp,Randy Feenstra (R),IA - 4,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Iowa,IOU,Berkshire Hathaway Energy,Randy Feenstra (R),IA - 4,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Kansas,IOU,Evergy Inc,Tracey Mann (R),KS - 1,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Kansas,IOU,Evergy Inc,Jake LaTurner (R),KS - 2,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Kansas,IOU,Liberty,Jake LaTurner (R),KS - 2,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Kansas,IOU,Evergy Inc,Sharice Davids (D),KS - 3,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Kansas,IOU,Evergy Inc,Ron Estes (R),KS - 4,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Kentucky,IOU,PPL Corp,James Comer (R),KY - 1,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Kentucky,IOU,PPL Corp,Brett Guthrie (R),KY - 2,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Kentucky,IOU,PPL Corp,Morgan McGarvey (D),KY - 3,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Kentucky,IOU,American Electric Power Co Inc,Thomas Massie (R),KY - 4,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Kentucky,IOU,Duke Energy Corp,Thomas Massie (R),KY - 4,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Kentucky,IOU,PPL Corp,Thomas Massie (R),KY - 4,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+Kentucky,IOU,American Electric Power Co Inc,Hal Rogers (R),KY - 5,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+Kentucky,IOU,PPL Corp,Hal Rogers (R),KY - 5,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+Kentucky,IOU,PPL Corp,Andy Barr (R),KY - 6,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+Louisiana,IOU,Cleco Corporate Holdings,Steve Scalise (R),LA - 1,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+Louisiana,IOU,Entergy Corp,Steve Scalise (R),LA - 1,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+Louisiana,IOU,Entergy Corp,Troy Carter (D),LA - 2,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+Louisiana,IOU,Cleco Corporate Holdings,Clay Higgins (R),LA - 3,515,21,Andy Beshear (D),Democratic,Mitch McConnell (R),Republican,2,Rand Paul (R),Republican,3,2R
+Louisiana,IOU,Entergy Corp,Clay Higgins (R),LA - 3,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Louisiana,IOU,American Electric Power Co Inc,Mike Johnson (R),LA - 4,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Louisiana,IOU,Cleco Corporate Holdings,Mike Johnson (R),LA - 4,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Louisiana,IOU,Entergy Corp,Mike Johnson (R),LA - 4,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Louisiana,IOU,American Electric Power Co Inc,Julia Letlow (R),LA - 5,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Louisiana,IOU,Cleco Corporate Holdings,Julia Letlow (R),LA - 5,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Louisiana,IOU,Entergy Corp,Julia Letlow (R),LA - 5,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Louisiana,IOU,Cleco Corporate Holdings,Garret Greaves (R),LA - 6,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Louisiana,IOU,Entergy Corp,Garret Greaves (R),LA - 6,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Maine,IOU,Avangrid Inc,Chellie Pingree (D),ME - 1,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Maine,IOU,Avangrid Inc,Jared Golden (D),ME - 2,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Maine,IOU,Versant Power,Jared Golden (D),ME - 2,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Maryland,IOU,Exelon Corp,Andy Harris (R),MD - 1,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Maryland,IOU,Exelon Corp,Dutch Ruppersberger (D),MD - 2,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Maryland,IOU,FirstEnergy Corp,Dutch Ruppersberger (D),MD - 2,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Maryland,IOU,Exelon Corp,John Sarbanes (D),MD - 3,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Maryland,IOU,FirstEnergy Corp,John Sarbanes (D),MD - 3,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Maryland,IOU,Exelon Corp,Glenn Ivey (D),MD - 4,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Maryland,IOU,Exelon Corp,Steny Hoyer (D),MD - 5,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Maryland,IOU,Exelon Corp,David Trone (D),MD - 6,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Maryland,IOU,FirstEnergy Corp,David Trone (D),MD - 6,515,37,Roy Cooper (D),Democratic,Thom Tillis (R),Republican,2,Ted Budd (R),Republican,3,2R
+Maryland,IOU,Exelon Corp,Kweisi Mfume (D),MD - 7,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+Maryland,IOU,Exelon Corp,Jamie Raskin (D),MD - 8,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+Maryland,IOU,FirstEnergy Corp,Jamie Raskin (D),MD - 8,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+Massachusetts,IOU,Eversource Energy,Richard Neal (D),MA - 1,515,45,Henry McMaster (R),Republican,Lindsey Graham (R),Republican,2,Tim Scott (R),Republican,3,2R
+Massachusetts,IOU,National Grid Plc,Richard Neal (D),MA - 1,515,45,Henry McMaster (R),Republican,Lindsey Graham (R),Republican,2,Tim Scott (R),Republican,3,2R
+Massachusetts,IOU,Eversource Energy,Jim McGovern (D),MA - 2,515,45,Henry McMaster (R),Republican,Lindsey Graham (R),Republican,2,Tim Scott (R),Republican,3,2R
+Massachusetts,IOU,National Grid Plc,Jim McGovern (D),MA - 2,515,45,Henry McMaster (R),Republican,Lindsey Graham (R),Republican,2,Tim Scott (R),Republican,3,2R
+Massachusetts,IOU,Eversource Energy,Lori Trahan (D),MA - 3,515,45,Henry McMaster (R),Republican,Lindsey Graham (R),Republican,2,Tim Scott (R),Republican,3,2R
+Massachusetts,IOU,National Grid Plc,Lori Trahan (D),MA - 3,515,45,Henry McMaster (R),Republican,Lindsey Graham (R),Republican,2,Tim Scott (R),Republican,3,2R
+Massachusetts,IOU,Unitil Corp,Lori Trahan (D),MA - 3,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Massachusetts,IOU,Eversource Energy,Jake Auchincloss (D),MA - 4,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Massachusetts,IOU,National Grid Plc,Jake Auchincloss (D),MA - 4,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Massachusetts,IOU,Eversource Energy,Katherine Clark (D),MA - 5,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Massachusetts,IOU,National Grid Plc,Katherine Clark (D),MA - 5,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Massachusetts,IOU,Eversource Energy,Seth Moulton (D),MA - 6,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Massachusetts,IOU,National Grid Plc,Seth Moulton (D),MA - 6,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Massachusetts,IOU,Eversource Energy,Ayanna Pressley (D),MA - 7,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Massachusetts,IOU,National Grid Plc,Ayanna Pressley (D),MA - 7,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Massachusetts,IOU,Eversource Energy,Stephen F. Lynch (D),MA - 8,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Massachusetts,IOU,National Grid Plc,Stephen F. Lynch (D),MA - 8,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Massachusetts,IOU,Eversource Energy,Bill Keating (D),MA - 9,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Massachusetts,IOU,National Grid Plc,Bill Keating (D),MA - 9,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,CMS Energy Corp,Jack Bergman (R),MI - 01,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,Upper Peninsula Power Co,Jack Bergman (R),MI - 01,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,WEC Energy Group Inc,Jack Bergman (R),MI - 01,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,Xcel Energy Inc,Jack Bergman (R),MI - 01,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,CMS Energy Corp,John Moolenaar (R),MI - 02,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,CMS Energy Corp,Hillary Sholten (D),MI - 03,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,American Electric Power Co Inc,Bill Huizenga (R),MI - 04,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,CMS Energy Corp,Bill Huizenga (R),MI - 04,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,American Electric Power Co Inc,Tim Walberg (R),MI - 05,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,CMS Energy Corp,Tim Walberg (R),MI - 05,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,DTE Energy Co,Tim Walberg (R),MI - 05,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,CMS Energy Corp,Debbie Dingell (D),MI - 06,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,DTE Energy Co,Debbie Dingell (D),MI - 06,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,CMS Energy Corp,Elissa Slotkin (D),MI - 07,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,DTE Energy Co,Elissa Slotkin (D),MI - 07,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,CMS Energy Corp,Dan Kildee (D),MI - 08,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,DTE Energy Co,Dan Kildee (D),MI - 08,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,CMS Energy Corp,Lisa McClain (R),MI - 09,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,DTE Energy Co,Lisa McClain (R),MI - 09,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,DTE Energy Co,John James (R),MI - 10,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Michigan,IOU,DTE Energy Co,Haley Stevens (D),MI - 11,515,35,Michelle Lujan Grisham (D),Democratic,Martin Heinrich (D),Democratic,1,Ben Ray Lujan (D),Democratic,2,2D
+Michigan,IOU,DTE Energy Co,Rashida Tlaib (D),MI - 12,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Michigan,IOU,DTE Energy Co,Shri Thanedar (D),MI - 13,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Minnesota,IOU,Xcel Energy Inc,Brad Finstad (R),MN - 1,515,5,Sarah Huckabee-Sanders (R),Republican,Tom Cotton (R),Republican,2,John Boozman (R),Republican,3,2R
+Minnesota,IOU,Xcel Energy Inc,Angie Craig (DFL),MN - 2,515,5,Sarah Huckabee-Sanders (R),Republican,Tom Cotton (R),Republican,2,John Boozman (R),Republican,3,2R
+Minnesota,IOU,Xcel Energy Inc,Dean Phillips (DFL),MN - 3,515,5,Sarah Huckabee-Sanders (R),Republican,Tom Cotton (R),Republican,2,John Boozman (R),Republican,3,2R
+Minnesota,IOU,Xcel Energy Inc,Betty McCollum (DFL),MN - 4,515,5,Sarah Huckabee-Sanders (R),Republican,Tom Cotton (R),Republican,2,John Boozman (R),Republican,3,2R
+Minnesota,IOU,Xcel Energy Inc,Ihan Omar (DFL),MN - 5,515,22,John Bel Edwards (D),Democratic,Bill Cassidy (R),Republican,2,John Kennedy (R),Republican,3,2R
+Minnesota,IOU,Xcel Energy Inc,Tom Emmer (R),MN - 6,515,22,John Bel Edwards (D),Democratic,Bill Cassidy (R),Republican,2,John Kennedy (R),Republican,3,2R
+Minnesota,IOU,ALLETE Inc,Michelle Fischbach (R),MN - 7,515,22,John Bel Edwards (D),Democratic,Bill Cassidy (R),Republican,2,John Kennedy (R),Republican,3,2R
+Minnesota,IOU,Otter Tail Corp,Michelle Fischbach (R),MN - 7,515,22,John Bel Edwards (D),Democratic,Bill Cassidy (R),Republican,2,John Kennedy (R),Republican,3,2R
+Minnesota,IOU,Xcel Energy Inc,Michelle Fischbach (R),MN - 7,515,22,John Bel Edwards (D),Democratic,Bill Cassidy (R),Republican,2,John Kennedy (R),Republican,3,2R
+Minnesota,IOU,ALLETE Inc,Pete Stauber (R),MN - 8,515,22,John Bel Edwards (D),Democratic,Bill Cassidy (R),Republican,2,John Kennedy (R),Republican,3,2R
+Minnesota,IOU,Otter Tail Corp,Pete Stauber (R),MN - 8,515,22,John Bel Edwards (D),Democratic,Bill Cassidy (R),Republican,2,John Kennedy (R),Republican,3,2R
+Minnesota,IOU,Xcel Energy Inc,Pete Stauber (R),MN - 8,515,28,Tate Reeves (R),Republican,Roger Wicker (R),Republican,1,Cindy Hyde-Smith (R),Republican,2,2R
+Mississippi,IOU,Entergy Corp,Trent Kelly (R),MS - 1,515,28,Tate Reeves (R),Republican,Roger Wicker (R),Republican,1,Cindy Hyde-Smith (R),Republican,2,2R
+Mississippi,IOU,Entergy Corp,Bennie Thompson (D),MS - 2,515,28,Tate Reeves (R),Republican,Roger Wicker (R),Republican,1,Cindy Hyde-Smith (R),Republican,2,2R
+Mississippi,IOU,Entergy Corp,Michael Guest (R),MS - 3,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Mississippi,IOU,Southern Co,Michael Guest (R),MS - 3,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Mississippi,IOU,Southern Co,Mike Ezell (R),MS - 4,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Missouri,IOU,Ameren Corp,Cori Bush (D),MO - 1,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Missouri,IOU,Ameren Corp,Ann Wagner (R),MO - 2,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Missouri,IOU,Ameren Corp,Blaine Luetkemeyer (R),MO - 3,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Missouri,IOU,Ameren Corp,Mark Alford (R),MO - 4,515,20,Laura Kelly (D),Democratic,Roger Marshall (R),Republican,2,Jerry Moran (R),Republican,3,2R
+Missouri,IOU,Evergy Inc,Mark Alford (R),MO - 4,515,20,Laura Kelly (D),Democratic,Roger Marshall (R),Republican,2,Jerry Moran (R),Republican,3,2R
+Missouri,IOU,Liberty,Mark Alford (R),MO - 4,515,20,Laura Kelly (D),Democratic,Roger Marshall (R),Republican,2,Jerry Moran (R),Republican,3,2R
+Missouri,IOU,Ameren Corp,Emanuel Cleaver (D),MO - 5,515,20,Laura Kelly (D),Democratic,Roger Marshall (R),Republican,2,Jerry Moran (R),Republican,3,2R
+Missouri,IOU,Evergy Inc,Emanuel Cleaver (D),MO - 5,515,20,Laura Kelly (D),Democratic,Roger Marshall (R),Republican,2,Jerry Moran (R),Republican,3,2R
+Missouri,IOU,Ameren Corp,Sam Graves (R,MO - 6,515,20,Laura Kelly (D),Democratic,Roger Marshall (R),Republican,2,Jerry Moran (R),Republican,3,2R
+Missouri,IOU,Evergy Inc,Sam Graves (R,MO - 6,515,20,Laura Kelly (D),Democratic,Roger Marshall (R),Republican,2,Jerry Moran (R),Republican,3,2R
+Missouri,IOU,Liberty,Eric Burlison (R),MO - 7,515,20,Laura Kelly (D),Democratic,Roger Marshall (R),Republican,2,Jerry Moran (R),Republican,3,2R
+Missouri,IOU,Ameren Corp,Jason Smith (R),MO - 8,515,20,Laura Kelly (D),Democratic,Roger Marshall (R),Republican,2,Jerry Moran (R),Republican,3,2R
+Montana,IOU,NorthWestern Corp,Ryan Zinke (R),MT - 1,515,29,Mike Parson (R),Republican,Josh Hawley (R),Republican,1,Eric Schmitt (R),Republican,3,2R
+Montana,IOU,MDU Resources Group Inc,Matt Rosendale (R),MT - 2,515,29,Mike Parson (R),Republican,Josh Hawley (R),Republican,1,Eric Schmitt (R),Republican,3,2R
+Montana,IOU,NorthWestern Corp,Matt Rosendale (R),MT - 2,515,29,Mike Parson (R),Republican,Josh Hawley (R),Republican,1,Eric Schmitt (R),Republican,3,2R
+Nevada,IOU,Berkshire Hathaway Energy,Dina Titus (D),NV - 1,515,29,Mike Parson (R),Republican,Josh Hawley (R),Republican,1,Eric Schmitt (R),Republican,3,2R
+Nevada,IOU,Berkshire Hathaway Energy,Mark Amodei (R),NV - 2,515,29,Mike Parson (R),Republican,Josh Hawley (R),Republican,1,Eric Schmitt (R),Republican,3,2R
+Nevada,IOU,Berkshire Hathaway Energy,Susie Lee (D),NV - 3,515,29,Mike Parson (R),Republican,Josh Hawley (R),Republican,1,Eric Schmitt (R),Republican,3,2R
+Nevada,IOU,Berkshire Hathaway Energy,Steven Horsford (D),NV - 4,515,9,Ned Lamont (D),Democratic,Chris Murphy (D),Democratic,1,Richard Blumenthal (D),Democratic,3,2D
+New Hampshire,IOU,Eversource Energy,Chris Pappas (D),NH - 1,515,9,Ned Lamont (D),Democratic,Chris Murphy (D),Democratic,1,Richard Blumenthal (D),Democratic,3,2D
+New Hampshire,IOU,Liberty,Chris Pappas (D),NH - 1,515,9,Ned Lamont (D),Democratic,Chris Murphy (D),Democratic,1,Richard Blumenthal (D),Democratic,3,2D
+New Hampshire,IOU,Unitil Corp,Chris Pappas (D),NH - 1,515,9,Ned Lamont (D),Democratic,Chris Murphy (D),Democratic,1,Richard Blumenthal (D),Democratic,3,2D
+New Hampshire,IOU,Eversource Energy,Ann Kuster (D),NH - 2,515,9,Ned Lamont (D),Democratic,Chris Murphy (D),Democratic,1,Richard Blumenthal (D),Democratic,3,2D
+New Hampshire,IOU,Liberty,Ann Kuster (D),NH - 2,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+New Hampshire,IOU,Unitil Corp,Ann Kuster (D),NH - 2,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+New Jersey,IOU,Exelon Corp,Donald Norcross (D),NJ - 01,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+New Jersey,IOU,Public Service Enterprise Group Inc,Donald Norcross (D),NJ - 01,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+New Jersey,IOU,Exelon Corp,Jeff Van Drew (R),NJ - 02,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+New Jersey,IOU,FirstEnergy Corp,Jeff Van Drew (R),NJ - 02,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+New Jersey,IOU,Exelon Corp,Andy Kim (D),NJ - 03,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+New Jersey,IOU,FirstEnergy Corp,Andy Kim (D),NJ - 03,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+New Jersey,IOU,Public Service Enterprise Group Inc,Andy Kim (D),NJ - 03,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+New Jersey,IOU,Exelon Corp,Chris Smith (R),NJ - 04,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+New Jersey,IOU,FirstEnergy Corp,Chris Smith (R),NJ - 04,515,33,Chris Sununu (R),Republican,Jeanne Shaheen (D),Democratic,2,Maggie Hassan (D),Democratic,3,2D
+New Jersey,IOU,Consolidated Edison Inc,Josh Gottenheimer (D),NJ - 05,515,33,Chris Sununu (R),Republican,Jeanne Shaheen (D),Democratic,2,Maggie Hassan (D),Democratic,3,2D
+New Jersey,IOU,FirstEnergy Corp,Josh Gottenheimer (D),NJ - 05,515,10,John Carney (D),Democratic,Tom Carper (D),Democratic,1,Chris Coons (D),Democratic,2,2D
+New Jersey,IOU,Public Service Enterprise Group Inc,Josh Gottenheimer (D),NJ - 05,515,11,Muriel Bowser (D),Democratic,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+New Jersey,IOU,FirstEnergy Corp,Frank Pallone (D),NJ - 06,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+New Jersey,IOU,Public Service Enterprise Group Inc,Frank Pallone (D),NJ - 06,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+New Jersey,IOU,FirstEnergy Corp,"Tom Kean, Jr. (R)",NJ - 07,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+New Jersey,IOU,Public Service Enterprise Group Inc,"Tom Kean, Jr. (R)",NJ - 07,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+New Jersey,IOU,Public Service Enterprise Group Inc,Rob Menendez (D),NJ - 08,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+New Jersey,IOU,Consolidated Edison Inc,Bill Pascrell (D),NJ - 09,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+New Jersey,IOU,FirstEnergy Corp,Bill Pascrell (D),NJ - 09,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+New Jersey,IOU,Public Service Enterprise Group Inc,Bill Pascrell (D),NJ - 09,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+New Jersey,IOU,Public Service Enterprise Group Inc,"Donald Payne, Jr. (D)",NJ - 10,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+New Jersey,IOU,FirstEnergy Corp,Mikie Sherrill (D),NJ - 11,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+New Jersey,IOU,Public Service Enterprise Group Inc,Mikie Sherrill (D),NJ - 11,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+New Jersey,IOU,FirstEnergy Corp,Bonnie Watson Coleman (D),NJ - 12,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+New Jersey,IOU,Public Service Enterprise Group Inc,Bonnie Watson Coleman (D),NJ - 12,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+New Mexico,IOU,PNM Resources Inc,Melanie Stansbury (D),NM - 1,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+New Mexico,IOU,El Paso Electric Co,Teresa Leger Fernandez (D),NM - 2,515,24,Wes Moore (D),Democratic,Ben Cardin (D),Democratic,1,Chris Van Hollen (D),Democratic,3,2D
+New Mexico,IOU,PNM Resources Inc,Teresa Leger Fernandez (D),NM - 2,515,24,Wes Moore (D),Democratic,Ben Cardin (D),Democratic,1,Chris Van Hollen (D),Democratic,3,2D
+New Mexico,IOU,Xcel Energy Inc,Teresa Leger Fernandez (D),NM - 2,515,24,Wes Moore (D),Democratic,Ben Cardin (D),Democratic,1,Chris Van Hollen (D),Democratic,3,2D
+New Mexico,IOU,PNM Resources Inc,Gabriel Vasquez (D),NM - 3,515,24,Wes Moore (D),Democratic,Ben Cardin (D),Democratic,1,Chris Van Hollen (D),Democratic,3,2D
+New Mexico,IOU,Xcel Energy Inc,Gabriel Vasquez (D),NM - 3,515,24,Wes Moore (D),Democratic,Ben Cardin (D),Democratic,1,Chris Van Hollen (D),Democratic,3,2D
+New York,IOU,Consolidated Edison Inc,George Santos (R),NY - 03,515,24,Wes Moore (D),Democratic,Ben Cardin (D),Democratic,1,Chris Van Hollen (D),Democratic,3,2D
+New York,IOU,Consolidated Edison Inc,Gregory Meeks (D),NY - 05,515,24,Wes Moore (D),Democratic,Ben Cardin (D),Democratic,1,Chris Van Hollen (D),Democratic,3,2D
+New York,IOU,Consolidated Edison Inc,Grace Meng (D),NY - 06,515,24,Wes Moore (D),Democratic,Ben Cardin (D),Democratic,1,Chris Van Hollen (D),Democratic,3,2D
+New York,IOU,Consolidated Edison Inc,Nydia Velazquez (D),NY - 07,515,24,Wes Moore (D),Democratic,Ben Cardin (D),Democratic,1,Chris Van Hollen (D),Democratic,3,2D
+New York,IOU,Consolidated Edison Inc,Hakeem Jeffries (D),NY - 08,515,24,Wes Moore (D),Democratic,Ben Cardin (D),Democratic,1,Chris Van Hollen (D),Democratic,3,2D
+New York,IOU,Consolidated Edison Inc,Yvette Clarke (D),NY - 09,515,24,Wes Moore (D),Democratic,Ben Cardin (D),Democratic,1,Chris Van Hollen (D),Democratic,3,2D
+New York,IOU,Consolidated Edison Inc,Dan Goldman (D),NY - 10,515,24,Wes Moore (D),Democratic,Ben Cardin (D),Democratic,1,Chris Van Hollen (D),Democratic,3,2D
+New York,IOU,Consolidated Edison Inc,Nicole Malliotakis (R),NY - 11,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+New York,IOU,Consolidated Edison Inc,Jerry Nadler (D),NY - 12,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+New York,IOU,Consolidated Edison Inc,Adriano Espaillat (D),NY - 13,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+New York,IOU,Consolidated Edison Inc,Alexandria Ocasio-Cortez (D),NY - 14,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+New York,IOU,Consolidated Edison Inc,Ritchie Torres (D),NY - 15,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+New York,IOU,Consolidated Edison Inc,Jamaal Bowman (D),NY - 16,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+New York,IOU,Avangrid Inc,Mike Lawler (R),NY - 17,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+New York,IOU,Central Hudson Gas & Electric Corp,Mike Lawler (R),NY - 17,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+New York,IOU,Consolidated Edison Inc,Mike Lawler (R),NY - 17,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+New York,IOU,Avangrid Inc,Pat Ryan (D),NY - 18,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+New York,IOU,Central Hudson Gas & Electric Corp,Pat Ryan (D),NY - 18,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+New York,IOU,Consolidated Edison Inc,Pat Ryan (D),NY - 18,515,24,Wes Moore (D),Democratic,Ben Cardin (D),Democratic,1,Chris Van Hollen (D),Democratic,3,2D
+New York,IOU,Avangrid Inc,Marc Molinaro (R),NY - 19,515,24,Wes Moore (D),Democratic,Ben Cardin (D),Democratic,1,Chris Van Hollen (D),Democratic,3,2D
+New York,IOU,Central Hudson Gas & Electric Corp,Marc Molinaro (R),NY - 19,515,24,Wes Moore (D),Democratic,Ben Cardin (D),Democratic,1,Chris Van Hollen (D),Democratic,3,2D
+New York,IOU,Consolidated Edison Inc,Marc Molinaro (R),NY - 19,515,24,Wes Moore (D),Democratic,Ben Cardin (D),Democratic,1,Chris Van Hollen (D),Democratic,3,2D
+New York,IOU,National Grid Plc,Marc Molinaro (R),NY - 19,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+New York,IOU,Avangrid Inc,Paul Tonko (D),NY - 20,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+New York,IOU,Central Hudson Gas & Electric Corp,Paul Tonko (D),NY - 20,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+New York,IOU,National Grid Plc,Paul Tonko (D),NY - 20,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+New York,IOU,Avangrid Inc,Elise Stefanik (R),NY - 21,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+New York,IOU,National Grid Plc,Elise Stefanik (R),NY - 21,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+New York,IOU,Avangrid Inc,Brandon Williams (R),NY - 22,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+New York,IOU,National Grid Plc,Brandon Williams (R),NY - 22,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+New York,IOU,Avangrid Inc,Nick Langworthy (R),NY - 23,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+New York,IOU,National Grid Plc,Nick Langworthy (R),NY - 23,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+New York,IOU,Avangrid Inc,Claudia Tenney (R),NY - 24,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+New York,IOU,National Grid Plc,Claudia Tenney (R),NY - 24,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+New York,IOU,Avangrid Inc,Joseph Morelle (D),NY - 25,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+New York,IOU,National Grid Plc,Joseph Morelle (D),NY - 25,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+New York,IOU,Avangrid Inc,Brian Higgins (D),NY - 26,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+New York,IOU,National Grid Plc,Brian Higgins (D),NY - 26,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+North Carolina,IOU,Dominion Energy Inc,Don Davis (D),NC - 01,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+North Carolina,IOU,Duke Energy Corp,Don Davis (D),NC - 01,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+North Carolina,IOU,Duke Energy Corp,Deborah K. Ross (D),NC - 02,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+North Carolina,IOU,Dominion Energy Inc,Greg Murphy (R),NC - 03,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+North Carolina,IOU,Duke Energy Corp,Greg Murphy (R),NC - 03,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+North Carolina,IOU,Duke Energy Corp,Valerie Foushee (D),NC - 04,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+North Carolina,IOU,Duke Energy Corp,Virginia Foxx (R),NC - 05,515,39,Mike DeWine (R),Republican,Sherrod Brown (D),Democratic,1,J.D. Vance (R),Republican,3,1D1R
+North Carolina,IOU,Duke Energy Corp,Kathy Manning (D),NC - 06,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+North Carolina,IOU,Duke Energy Corp,David Rouzer (R),NC - 07,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+North Carolina,IOU,Duke Energy Corp,Dan Bishop (R),NC - 08,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+North Carolina,IOU,Duke Energy Corp,Richard Hudson (R),NC - 09,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+North Carolina,IOU,Duke Energy Corp,Patrick McHenry (R),NC - 10,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+North Carolina,IOU,Duke Energy Corp,Chuck Edwards (R),NC - 11,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+North Carolina,IOU,Duke Energy Corp,Alma Adams (D),NC - 12,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+North Carolina,IOU,Duke Energy Corp,Wiley Nickel (D),NC - 13,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+North Carolina,IOU,Duke Energy Corp,Jeff Jackson (D),NC - 14,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+North Dakota,IOU,MDU Resources Group Inc,Kelly Armstrong (R),ND - at Large,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+North Dakota,IOU,Otter Tail Corp,Kelly Armstrong (R),ND - at Large,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+North Dakota,IOU,Xcel Energy Inc,Kelly Armstrong (R),ND - at Large,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Ohio,IOU,AES Corp ,Greg Landsman (D),OH - 01,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Ohio,IOU,Duke Energy Corp,Greg Landsman (D),OH - 01,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Ohio,IOU,AES Corp ,Brad Wenstrup (R),OH - 02,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Ohio,IOU,American Electric Power Co Inc,Brad Wenstrup (R),OH - 02,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Ohio,IOU,Duke Energy Corp,Brad Wenstrup (R),OH - 02,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Ohio,IOU,American Electric Power Co Inc,Joyce Beatty (D),OH - 03,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Ohio,IOU,AES Corp ,Jim Jordan (R),OH - 04,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Ohio,IOU,American Electric Power Co Inc,Jim Jordan (R),OH - 04,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Ohio,IOU,FirstEnergy Corp,Jim Jordan (R),OH - 04,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Ohio,IOU,AES Corp ,Bob Latta (R),OH - 05,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Ohio,IOU,American Electric Power Co Inc,Bob Latta (R),OH - 05,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Ohio,IOU,FirstEnergy Corp,Bob Latta (R),OH - 05,515,54,Jim Justice (R),Republican,Joe Mancin (D),Democratic,1,Jim Justice (R),Republican,2,1D1R
+Ohio,IOU,American Electric Power Co Inc,Bill Johnson (R),OH - 06,515,54,Jim Justice (R),Republican,Joe Mancin (D),Democratic,1,Jim Justice (R),Republican,2,1D1R
+Ohio,IOU,FirstEnergy Corp,Bill Johnson (R),OH - 06,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Ohio,IOU,American Electric Power Co Inc,Max Miller (R),OH - 07,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Ohio,IOU,FirstEnergy Corp,Max Miller (R),OH - 07,515,50,Phil Scott (R),Republican,Bernie Sanders (I),Independent,1,Peter Welch (D),Democratic,3,1D1I
+Ohio,IOU,AES Corp ,Warren Davidson (R),OH - 08,515,15,Josh Green (D),Democratic,Mazie Hirono (D),Democratic,1,Brian Schatz (D),Democratic,3,2D
+Ohio,IOU,American Electric Power Co Inc,Warren Davidson (R),OH - 08,515,15,Josh Green (D),Democratic,Mazie Hirono (D),Democratic,1,Brian Schatz (D),Democratic,3,2D
+Ohio,IOU,Duke Energy Corp,Warren Davidson (R),OH - 08,515,15,Josh Green (D),Democratic,Mazie Hirono (D),Democratic,1,Brian Schatz (D),Democratic,3,2D
+Ohio,IOU,American Electric Power Co Inc,Marcy Kaptur (D),OH - 09,515,15,Josh Green (D),Democratic,Mazie Hirono (D),Democratic,1,Brian Schatz (D),Democratic,3,2D
+Ohio,IOU,FirstEnergy Corp,Marcy Kaptur (D),OH - 09,515,16,Brad Little (R),Republican,Jim Risch (R),Republican,2,Mike Crapo (R),Republican,3,2R
+Ohio,IOU,AES Corp ,Mike Turner (R),OH - 10,515,16,Brad Little (R),Republican,Jim Risch (R),Republican,2,Mike Crapo (R),Republican,3,2R
+Ohio,IOU,FirstEnergy Corp,Mike Turner (R),OH - 10,515,41,Tina Kotek (D),Democratic,Jeff Merkley (D),Democratic,2,Ron Wyden (D),Democratic,3,2D
+Ohio,IOU,FirstEnergy Corp,Shontel Brown (D),OH - 11,515,5,Sarah Huckabee-Sanders (R),Republican,Tom Cotton (R),Republican,2,John Boozman (R),Republican,3,2R
+Ohio,IOU,American Electric Power Co Inc,Troy Balderson (R),OH - 12,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Ohio,IOU,American Electric Power Co Inc,Emilia Sykes (D),OH - 13,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Ohio,IOU,FirstEnergy Corp,Emilia Sykes (D),OH - 13,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Ohio,IOU,FirstEnergy Corp,David Joyce (R),OH - 14,515,20,Laura Kelly (D),Democratic,Roger Marshall (R),Republican,2,Jerry Moran (R),Republican,3,2R
+Ohio,IOU,AES Corp ,Mike Carey (R),OH - 15,515,29,Mike Parson (R),Republican,Josh Hawley (R),Republican,1,Eric Schmitt (R),Republican,3,2R
+Ohio,IOU,American Electric Power Co Inc,Mike Carey (R),OH - 15,515,29,Mike Parson (R),Republican,Josh Hawley (R),Republican,1,Eric Schmitt (R),Republican,3,2R
+Ohio,IOU,FirstEnergy Corp,Mike Carey (R),OH - 15,515,33,Chris Sununu (R),Republican,Jeanne Shaheen (D),Democratic,2,Maggie Hassan (D),Democratic,3,2D
+Oklahoma,IOU,American Electric Power Co Inc,Kevin Hern (R),OK - 1,515,33,Chris Sununu (R),Republican,Jeanne Shaheen (D),Democratic,2,Maggie Hassan (D),Democratic,3,2D
+Oklahoma,IOU,OGE Energy Corp,Kevin Hern (R),OK - 1,515,40,Kevin Stitt (R),Republican,Markwayne Mullin (R),Republican,2,ames Lankford (R),Republican,3,2R
+Oklahoma,IOU,American Electric Power Co Inc,Josh Brecheen (R),OK - 2,515,30,Greg Gianforte (R),Republican,Jon Tester (D),Democratic,1,Steve Daines (R),Republican,2,1D1R
+Oklahoma,IOU,Liberty,Josh Brecheen (R),OK - 2,515,38,Doug Burgum (R),Republican,Kevin Cramer (R),Republican,1,John Hoeven (R),Republican,3,2R
+Oklahoma,IOU,OGE Energy Corp,Josh Brecheen (R),OK - 2,515,46,Kristi Noem (R),Republican,Mike Rounds (R),Republican,2,John Thune (R),Republican,3,2R
+Oklahoma,IOU,American Electric Power Co Inc,Frank Lucas (R),OK - 3,515,56,Mark Gordon (R),Republican,John Barrasso (R),Republican,1,Cynthia Lummis (R),Republican,2,2R
+Oklahoma,IOU,OGE Energy Corp,Frank Lucas (R),OK - 3,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+Oklahoma,IOU,Xcel Energy Inc,Frank Lucas (R),OK - 3,515,17,J.B. Pritzker (D),Democratic,Dick Durbin (D),Democratic,2,Tammy Duckworth (D),Democratic,3,2D
+Oklahoma,IOU,American Electric Power Co Inc,Tom Cole (R),OK - 4,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+Oklahoma,IOU,OGE Energy Corp,Tom Cole (R),OK - 4,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+Oklahoma,IOU,OGE Energy Corp,Stephanie Bice (R),OK - 5,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+Oregon,IOU,Berkshire Hathaway Energy,Suzanne Bonamici (D),OR - 1,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+Oregon,IOU,Portland General Electric Co,Suzanne Bonamici (D),OR - 1,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+Oregon,IOU,Berkshire Hathaway Energy,Cliff Bentz (R),OR - 2,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+Oregon,IOU,IDACORP Inc,Cliff Bentz (R),OR - 2,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+Oregon,IOU,Berkshire Hathaway Energy,Earl Blumenauer (D),OR - 3,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+Oregon,IOU,Portland General Electric Co,Earl Blumenauer (D),OR - 3,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+Oregon,IOU,Berkshire Hathaway Energy,Val Hoyle (D),OR - 4,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+Oregon,IOU,Berkshire Hathaway Energy,Lori Chavez-DeRemer (R),OR - 5,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Oregon,IOU,Portland General Electric Co,Lori Chavez-DeRemer (R),OR - 5,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Oregon,IOU,Berkshire Hathaway Energy,Andrea Salinas (D),OR - 6,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Oregon,IOU,Portland General Electric Co,Andrea Salinas (D),OR - 6,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Pennsylvania,IOU,Exelon Corp,Brian Fitzpatrick (R),PA - 01,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Pennsylvania,IOU,FirstEnergy Corp,Brian Fitzpatrick (R),PA - 01,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Pennsylvania,IOU,PPL Corp,Brian Fitzpatrick (R),PA - 01,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Pennsylvania,IOU,Exelon Corp,Brendan Boyle (D),PA - 02,515,36,Kathy Hochul (D),Democratic,Kirsten Gillibrand (D),Democratic,1,Chuck Schumer (D),Democratic,3,2D
+Pennsylvania,IOU,Exelon Corp,Dwight Evans (D),PA - 03,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,Exelon Corp,Madeleine Dean (D),PA - 04,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,FirstEnergy Corp,Madeleine Dean (D),PA - 04,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,PPL Corp,Madeleine Dean (D),PA - 04,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,Exelon Corp,Mary Gay Scanlon (D),PA - 05,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,Exelon Corp,Chrissy Houlahan (D),PA - 06,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,FirstEnergy Corp,Chrissy Houlahan (D),PA - 06,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,PPL Corp,Chrissy Houlahan (D),PA - 06,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,FirstEnergy Corp,Susan Wild (D),PA - 07,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,PPL Corp,Susan Wild (D),PA - 07,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,FirstEnergy Corp,Matt Cartwright (D),PA - 08,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,PPL Corp,Matt Cartwright (D),PA - 08,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,UGI Corp,Matt Cartwright (D),PA - 08,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,FirstEnergy Corp,Matt Cartwright (D),PA - 09,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,PPL Corp,Matt Cartwright (D),PA - 09,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,UGI Corp,Matt Cartwright (D),PA - 09,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,FirstEnergy Corp,Dan Meuser (R),PA - 10,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,PPL Corp,Dan Meuser (R),PA - 10,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,Exelon Corp,Scott Perry (R),PA - 11,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,FirstEnergy Corp,Scott Perry (R),PA - 11,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,PPL Corp,Scott Perry (R),PA - 11,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,Duquesne Light Co,Lloyd Smucker (R),PA - 12,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+Pennsylvania,IOU,FirstEnergy Corp,Lloyd Smucker (R),PA - 12,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+Pennsylvania,IOU,FirstEnergy Corp,Summer Lee (D),PA - 13,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+Pennsylvania,IOU,PPL Corp,Summer Lee (D),PA - 13,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+Pennsylvania,IOU,FirstEnergy Corp,John Joyce (R),PA - 14,515,18,Eric Holcomb (R),Republican,Mike Braun (R),Republican,1,Todd Young (R),Republican,3,2R
+Pennsylvania,IOU,FirstEnergy Corp,Guy Renchenthaler (R),PA - 15,515,30,Greg Gianforte (R),Republican,Jon Tester (D),Democratic,1,Steve Daines (R),Republican,2,1D1R
+Pennsylvania,IOU,PPL Corp,Guy Renchenthaler (R),PA - 15,515,30,Greg Gianforte (R),Republican,Jon Tester (D),Democratic,1,Steve Daines (R),Republican,2,1D1R
+Pennsylvania,IOU,FirstEnergy Corp,Mike Kelly (R),PA - 16,515,46,Kristi Noem (R),Republican,Mike Rounds (R),Republican,2,John Thune (R),Republican,3,2R
+Pennsylvania,IOU,Duquesne Light Co,Chris Deluzio (D),PA - 17,515,56,Mark Gordon (R),Republican,John Barrasso (R),Republican,1,Cynthia Lummis (R),Republican,2,2R
+Pennsylvania,IOU,FirstEnergy Corp,Chris Deluzio (D),PA - 17,515,5,Sarah Huckabee-Sanders (R),Republican,Tom Cotton (R),Republican,2,John Boozman (R),Republican,3,2R
+Rhode Island,IOU,PPL Corp,David Cicilline (D),RI - 1,515,5,Sarah Huckabee-Sanders (R),Republican,Tom Cotton (R),Republican,2,John Boozman (R),Republican,3,2R
+Rhode Island,IOU,PPL Corp,Seth Magaziner (D),RI - 2,515,40,Kevin Stitt (R),Republican,Markwayne Mullin (R),Republican,2,James Lankford (R),Republican,3,2R
+South Carolina,IOU,Dominion Energy Inc,Nancy Mace (R),SC - 1,515,40,Kevin Stitt (R),Republican,Markwayne Mullin (R),Republican,2,ames Lankford (R),Republican,3,2R
+South Carolina,IOU,Dominion Energy Inc,Joe Wilson (R),SC - 2,515,40,Kevin Stitt (R),Republican,Markwayne Mullin (R),Republican,2,James Lankford (R),Republican,3,2R
+South Carolina,IOU,Dominion Energy Inc,Jeff Duncan (R),SC - 3,515,40,Kevin Stitt (R),Republican,Markwayne Mullin (R),Republican,2,James Lankford (R),Republican,3,2R
+South Carolina,IOU,Duke Energy Corp,Jeff Duncan (R),SC - 3,515,40,Kevin Stitt (R),Republican,Markwayne Mullin (R),Republican,2,James Lankford (R),Republican,3,2R
+South Carolina,IOU,Duke Energy Corp,William Timmons (R),SC - 4,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+South Carolina,IOU,Dominion Energy Inc,Ralph Norman (R),SC - 5,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+South Carolina,IOU,Duke Energy Corp,Ralph Norman (R),SC - 5,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+South Carolina,IOU,Dominion Energy Inc,Jim Clyburn (D),SC - 6,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+South Carolina,IOU,Duke Energy Corp,Jim Clyburn (D),SC - 6,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+South Carolina,IOU,Duke Energy Corp,Russell Fry (R),SC - 7,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+South Dakota,IOU,Black Hills Corp,Dusty Johnson (R),SD - at Large,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+South Dakota,IOU,MDU Resources Group Inc,Dusty Johnson (R),SD - at Large,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+South Dakota,IOU,NorthWestern Corp,Dusty Johnson (R),SD - at Large,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+South Dakota,IOU,Otter Tail Corp,Dusty Johnson (R),SD - at Large,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+South Dakota,IOU,Xcel Energy Inc,Dusty Johnson (R),SD - at Large,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Tennessee,IOU,American Electric Power Co Inc,Diana Harshbarger (R),TN - 1,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,American Electric Power Co Inc,Nathaniel Moran (R),TX - 01,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,Oncor Electric Delivery,Nathaniel Moran (R),TX - 01,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,PNM Resources Inc,Nathaniel Moran (R),TX - 01,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,CenterPoint Energy Inc,Dan Crenshaw (R),TX - 02,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,Entergy Corp,Dan Crenshaw (R),TX - 02,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,Oncor Electric Delivery,Keith Self (R),TX - 03,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,PNM Resources Inc,Keith Self (R),TX - 03,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,American Electric Power Co Inc,Pat Fallon (R),TX - 04,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,Oncor Electric Delivery,Pat Fallon (R),TX - 04,515,27,Tim Walz (DFL),Democratic,Amy Klobuchar (DFL),Democratic,1,Tina Smith (DFL),Democratic,2,2D
+Texas,IOU,PNM Resources Inc,Pat Fallon (R),TX - 04,515,27,Tim Walz (DFL),Democratic,Amy Klobuchar (DFL),Democratic,1,Tina Smith (DFL),Democratic,2,2D
+Texas,IOU,American Electric Power Co Inc,Lance Gooden (R),TX - 05,515,38,Doug Burgum (R),Republican,Kevin Cramer (R),Republican,1,John Hoeven (R),Republican,3,2R
+Texas,IOU,Oncor Electric Delivery,Lance Gooden (R),TX - 05,515,46,Kristi Noem (R),Republican,Mike Rounds (R),Republican,2,John Thune (R),Republican,3,2R
+Texas,IOU,Oncor Electric Delivery,Jake Ellzey (R),TX - 06,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,PNM Resources Inc,Jake Ellzey (R),TX - 06,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,CenterPoint Energy Inc,Lizzie Fletcher (D),TX - 07,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,CenterPoint Energy Inc,Morgan Luttrell (R),TX - 08,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,Entergy Corp,Morgan Luttrell (R),TX - 08,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,CenterPoint Energy Inc,Al Green (D),TX - 09,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,American Electric Power Co Inc,Michael McCaul (R),TX - 10,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,CenterPoint Energy Inc,Michael McCaul (R),TX - 10,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,Entergy Corp,Michael McCaul (R),TX - 10,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,Oncor Electric Delivery,Michael McCaul (R),TX - 10,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,American Electric Power Co Inc,August Pflueger (R),TX - 11,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,Oncor Electric Delivery,August Pflueger (R),TX - 11,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,Oncor Electric Delivery,Kay Granger (R),TX - 12,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,American Electric Power Co Inc,Ronny Jackson (R),TX - 13,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,Oncor Electric Delivery,Ronny Jackson (R),TX - 13,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,PNM Resources Inc,Ronny Jackson (R),TX - 13,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,Xcel Energy Inc,Ronny Jackson (R),TX - 13,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,CenterPoint Energy Inc,Randy Weber (R),TX - 14,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,Entergy Corp,Randy Weber (R),TX - 14,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,PNM Resources Inc,Randy Weber (R),TX - 14,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,American Electric Power Co Inc,Monica De La Cruz (R),TX - 15,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,El Paso Electric Co,Veronica Escobar (D),TX - 16,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Texas,IOU,Entergy Corp,Pete Sessions (R),TX - 17,515,4,Katie Hobbs (D),Democratic,Kyrsten Sinema (D),Democratic,1,Mark Kelly (D),Democratic,3,2D
+Texas,IOU,Oncor Electric Delivery,Pete Sessions (R),TX - 17,515,4,Katie Hobbs (D),Democratic,Kyrsten Sinema (D),Democratic,1,Mark Kelly (D),Democratic,3,2D
+Texas,IOU,PNM Resources Inc,Pete Sessions (R),TX - 17,515,4,Katie Hobbs (D),Democratic,Kyrsten Sinema (D),Democratic,1,Mark Kelly (D),Democratic,3,2D
+Texas,IOU,CenterPoint Energy Inc,Sheila Jackson Lee (D),TX - 18,515,4,Katie Hobbs (D),Democratic,Kyrsten Sinema (D),Democratic,1,Mark Kelly (D),Democratic,3,2D
+Texas,IOU,American Electric Power Co Inc,Jodey Arrington (R),TX - 19,515,4,Katie Hobbs (D),Democratic,Kyrsten Sinema (D),Democratic,1,Mark Kelly (D),Democratic,3,2D
+Texas,IOU,Oncor Electric Delivery,Jodey Arrington (R),TX - 19,515,4,Katie Hobbs (D),Democratic,Kyrsten Sinema (D),Democratic,1,Mark Kelly (D),Democratic,3,2D
+Texas,IOU,Xcel Energy Inc,Jodey Arrington (R),TX - 19,515,4,Katie Hobbs (D),Democratic,Kyrsten Sinema (D),Democratic,1,Mark Kelly (D),Democratic,3,2D
+Texas,IOU,American Electric Power Co Inc,Chip Roy (R),TX - 21,515,4,Katie Hobbs (D),Democratic,Kyrsten Sinema (D),Democratic,1,Mark Kelly (D),Democratic,3,2D
+Texas,IOU,American Electric Power Co Inc,Troy Nehls (R),TX - 22,515,4,Katie Hobbs (D),Democratic,Kyrsten Sinema (D),Democratic,1,Mark Kelly (D),Democratic,3,2D
+Texas,IOU,CenterPoint Energy Inc,Troy Nehls (R),TX - 22,515,35,Michelle Lujan Grisham (D),Democratic,Martin Heinrich (D),Democratic,1,Ben Ray Lujan (D),Democratic,2,2D
+Texas,IOU,PNM Resources Inc,Troy Nehls (R),TX - 22,515,35,Michelle Lujan Grisham (D),Democratic,Martin Heinrich (D),Democratic,1,Ben Ray Lujan (D),Democratic,2,2D
+Texas,IOU,American Electric Power Co Inc,Tony Gonzales (R),TX - 23,515,35,Michelle Lujan Grisham (D),Democratic,Martin Heinrich (D),Democratic,1,Ben Ray Lujan (D),Democratic,2,2D
+Texas,IOU,El Paso Electric Co,Tony Gonzales (R),TX - 23,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,Oncor Electric Delivery,Tony Gonzales (R),TX - 23,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,PNM Resources Inc,Tony Gonzales (R),TX - 23,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,Oncor Electric Delivery,Beth Van Duyne (R),TX - 24,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,PNM Resources Inc,Beth Van Duyne (R),TX - 24,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,American Electric Power Co Inc,Roger Williams (R),TX - 25,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,Oncor Electric Delivery,Roger Williams (R),TX - 25,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,PNM Resources Inc,Roger Williams (R),TX - 25,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,Oncor Electric Delivery,Michael C. Burgess (R),TX - 26,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,PNM Resources Inc,Michael C. Burgess (R),TX - 26,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,American Electric Power Co Inc,Michael Cloud (R),TX - 27,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,American Electric Power Co Inc,Henry Cuellar (D),TX - 28,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,CenterPoint Energy Inc,Sylvia Garcia (D),TX - 29,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+Texas,IOU,Oncor Electric Delivery,Jasmine Crockett (D),TX - 30,515,41,Tina Kotek (D),Democratic,Jeff Merkley (D),Democratic,2,Ron Wyden (D),Democratic,3,2D
+Texas,IOU,Oncor Electric Delivery,John Carter (R),TX - 31,515,41,Tina Kotek (D),Democratic,Jeff Merkley (D),Democratic,2,Ron Wyden (D),Democratic,3,2D
+Texas,IOU,PNM Resources Inc,John Carter (R),TX - 31,515,41,Tina Kotek (D),Democratic,Jeff Merkley (D),Democratic,2,Ron Wyden (D),Democratic,3,2D
+Texas,IOU,Oncor Electric Delivery,Colin Allred (D),TX - 32,515,41,Tina Kotek (D),Democratic,Jeff Merkley (D),Democratic,2,Ron Wyden (D),Democratic,3,2D
+Texas,IOU,Oncor Electric Delivery,Marc Veasey (D),TX - 33,515,21,Andy Beshear (D),Democratic,Mitch McConnell (R),Republican,2,Rand Paul (R),Republican,3,2R
+Texas,IOU,American Electric Power Co Inc,Vicente Gonzalez (D),TX - 34,515,21,Andy Beshear (D),Democratic,Mitch McConnell (R),Republican,2,Rand Paul (R),Republican,3,2R
+Texas,IOU,CenterPoint Energy Inc,Brian Babin (R),TX - 36,515,21,Andy Beshear (D),Democratic,Mitch McConnell (R),Republican,2,Rand Paul (R),Republican,3,2R
+Texas,IOU,Entergy Corp,Brian Babin (R),TX - 36,515,21,Andy Beshear (D),Democratic,Mitch McConnell (R),Republican,2,Rand Paul (R),Republican,3,2R
+Texas,IOU,Oncor Electric Delivery,Lloyd Doggett (D),TX - 37,515,21,Andy Beshear (D),Democratic,Mitch McConnell (R),Republican,2,Rand Paul (R),Republican,3,2R
+Texas,IOU,CenterPoint Energy Inc,Wesley Hunt (R),TX - 38,515,21,Andy Beshear (D),Democratic,Mitch McConnell (R),Republican,2,Rand Paul (R),Republican,3,2R
+Utah,IOU,Berkshire Hathaway Energy,Blake Moore (R),UT - 1,515,21,Andy Beshear (D),Democratic,Mitch McConnell (R),Republican,2,Rand Paul (R),Republican,3,2R
+Utah,IOU,Berkshire Hathaway Energy,Chris Stewart (R),UT - 2,515,21,Andy Beshear (D),Democratic,Mitch McConnell (R),Republican,2,Rand Paul (R),Republican,3,2R
+Utah,IOU,Berkshire Hathaway Energy,John Curtis (R),UT - 3,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Utah,IOU,Berkshire Hathaway Energy,Burgess Owens (R),UT - 4,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Vermont,IOU,Green Mountain Power Corp,Becca Balint (D),VT - at Large,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Virginia,IOU,Dominion Energy Inc,Rob Wittman (R),VA - 01,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Virginia,IOU,Dominion Energy Inc,Jen Kiggans (R),VA - 02,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Virginia,IOU,Dominion Energy Inc,Bobby Scott (D),VA - 03,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Virginia,IOU,Dominion Energy Inc,TBD,VA - 04,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Virginia,IOU,American Electric Power Co Inc,Bob Good (R),VA - 05,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Virginia,IOU,Dominion Energy Inc,Bob Good (R),VA - 05,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Virginia,IOU,American Electric Power Co Inc,Ben Cline (R),VA - 06,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+Virginia,IOU,Dominion Energy Inc,Ben Cline (R),VA - 06,515,44,Dan McKee (D),Democratic,Sheldon Whitehouse (D),Democratic,1,Jack Reed (D),Democratic,2,2D
+Virginia,IOU,Dominion Energy Inc,Abigail Spanberger (D),VA - 07,515,44,Dan McKee (D),Democratic,Sheldon Whitehouse (D),Democratic,1,Jack Reed (D),Democratic,2,2D
+Virginia,IOU,Dominion Energy Inc,Don Beyer (D),VA - 08,515,51,Glenn Youngkin (R),Republican,Tim Kaine (D),Democratic,1,Mark Warner (D),Democratic,2,2D
+Virginia,IOU,American Electric Power Co Inc,Morgan Griffith (R),VA - 09,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+Virginia,IOU,PPL Corp,Morgan Griffith (R),VA - 09,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+Virginia,IOU,Dominion Energy Inc,Jennifer Wexton (D),VA - 10,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+Virginia,IOU,Dominion Energy Inc,Gerry Connolly (D),VA - 11,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+Washington,IOU,Puget Energy Inc,Suzan DelBene (D),WA - 01,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+Washington,IOU,Puget Energy Inc,Rick Larsen (D),WA - 02,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+Washington,IOU,Puget Energy Inc,Marie Glusenkamp Perez (D),WA - 03,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+Washington,IOU,Avista Corp,Dan Newhouse (R),WA - 04,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+Washington,IOU,Berkshire Hathaway Energy,Dan Newhouse (R),WA - 04,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+Washington,IOU,Avista Corp,Cathy McMorris Rodgers (R),WA - 05,515,34,Phil Murphy (D),Democratic,Bob Menendez (D),Democratic,1,Cory Booker (D),Democratic,2,2D
+Washington,IOU,Berkshire Hathaway Energy,Cathy McMorris Rodgers (R),WA - 05,515,53,Jay Inslee (D),Democratic,Maria Cantwell (D),Democratic,1,Patty Murray (D),Democratic,3,2D
+Washington,IOU,Puget Energy Inc,Derek Kilmer (D),WA - 06,515,53,Jay Inslee (D),Democratic,Maria Cantwell (D),Democratic,1,Patty Murray (D),Democratic,3,2D
+Washington,IOU,Puget Energy Inc,Pramila Jayapal (D),WA - 07,515,53,Jay Inslee (D),Democratic,Maria Cantwell (D),Democratic,1,Patty Murray (D),Democratic,3,2D
+Washington,IOU,Puget Energy Inc,Kim Schrier (D),WA - 08,515,53,Jay Inslee (D),Democratic,Maria Cantwell (D),Democratic,1,Patty Murray (D),Democratic,3,2D
+Washington,IOU,Puget Energy Inc,Adam Smith (D),WA - 09,515,53,Jay Inslee (D),Democratic,Maria Cantwell (D),Democratic,1,Patty Murray (D),Democratic,3,2D
+Washington,IOU,Puget Energy Inc,Marilyn Strickland (D),WA - 10,515,53,Jay Inslee (D),Democratic,Maria Cantwell (D),Democratic,1,Patty Murray (D),Democratic,3,2D
+West Virginia,IOU,American Electric Power Co Inc,Carol Miller (R),WV - 1,515,53,Jay Inslee (D),Democratic,Maria Cantwell (D),Democratic,1,Patty Murray (D),Democratic,3,2D
+West Virginia,IOU,FirstEnergy Corp,Carol Miller (R),WV - 1,515,53,Jay Inslee (D),Democratic,Maria Cantwell (D),Democratic,1,Patty Murray (D),Democratic,3,2D
+West Virginia,IOU,American Electric Power Co Inc,Alex Mooney (R),WV - 2,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+West Virginia,IOU,FirstEnergy Corp,Alex Mooney (R),WV - 2,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Wisconsin,IOU,Alliant Energy Corp,Bryan Steil (R),WI - 1,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Wisconsin,IOU,WEC Energy Group Inc,Bryan Steil (R),WI - 1,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Wisconsin,IOU,Alliant Energy Corp,Mark Pocan (D),WI - 2,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Wisconsin,IOU,MGE Energy Inc,Mark Pocan (D),WI - 2,515,6,Gavin Newsom (D),Democratic,Dianne Feinstein (D),Democratic,1,Alex Padilla (D),Democratic,3,2D
+Wisconsin,IOU,WEC Energy Group Inc,Mark Pocan (D),WI - 2,515,1,Kay Ivey (R),Republican,Tommy Tuberville (R),Republican,2,Katie Britt (R),Republican,3,2R
+Wisconsin,IOU,Alliant Energy Corp,Derrick Van Orden (R),WI - 3,515,1,Kay Ivey (R),Republican,Tommy Tuberville (R),Republican,2,Katie Britt (R),Republican,3,2R
+Wisconsin,IOU,WEC Energy Group Inc,Derrick Van Orden (R),WI - 3,515,1,Kay Ivey (R),Republican,Tommy Tuberville (R),Republican,2,Katie Britt (R),Republican,3,2R
+Wisconsin,IOU,Xcel Energy Inc,Derrick Van Orden (R),WI - 3,515,1,Kay Ivey (R),Republican,Tommy Tuberville (R),Republican,2,Katie Britt (R),Republican,3,2R
+Wisconsin,IOU,WEC Energy Group Inc,Gwen Moore (D),WI - 4,515,1,Kay Ivey (R),Republican,Tommy Tuberville (R),Republican,2,Katie Britt (R),Republican,3,2R
+Wisconsin,IOU,Alliant Energy Corp,Scott Fitzgerald (R),WI - 5,515,1,Kay Ivey (R),Republican,Tommy Tuberville (R),Republican,2,Katie Britt (R),Republican,3,2R
+Wisconsin,IOU,WEC Energy Group Inc,Scott Fitzgerald (R),WI - 5,515,13,Brian Kemp (R),Republican,Jon Ossoff (D),Democratic,2,TBD,TBD,3,
+Wisconsin,IOU,Alliant Energy Corp,Glenn Grothman (R),WI - 6,515,13,Brian Kemp (R),Republican,Jon Ossoff (D),Democratic,2,TBD,TBD,3,
+Wisconsin,IOU,WEC Energy Group Inc,Glenn Grothman (R),WI - 6,515,13,Brian Kemp (R),Republican,Jon Ossoff (D),Democratic,2,TBD,TBD,3,
+Wisconsin,IOU,ALLETE Inc,Tom Tiffany (R),WI - 7,515,13,Brian Kemp (R),Republican,Jon Ossoff (D),Democratic,2,TBD,TBD,3,
+Wisconsin,IOU,Alliant Energy Corp,Tom Tiffany (R),WI - 7,515,13,Brian Kemp (R),Republican,Jon Ossoff (D),Democratic,2,TBD,TBD,3,
+Wisconsin,IOU,WEC Energy Group Inc,Tom Tiffany (R),WI - 7,515,13,Brian Kemp (R),Republican,Jon Ossoff (D),Democratic,2,TBD,TBD,3,
+Wisconsin,IOU,Xcel Energy Inc,Tom Tiffany (R),WI - 7,515,13,Brian Kemp (R),Republican,Jon Ossoff (D),Democratic,2,TBD,TBD,3,
+Wisconsin,IOU,Alliant Energy Corp,Mike Gallagher (R),WI - 8,515,13,Brian Kemp (R),Republican,Jon Ossoff (D),Democratic,2,TBD,TBD,3,
+Wisconsin,IOU,WEC Energy Group Inc,Mike Gallagher (R),WI - 8,515,13,Brian Kemp (R),Republican,Jon Ossoff (D),Democratic,2,TBD,TBD,3,
+Wyoming,IOU,Berkshire Hathaway Energy,Harriet Hageman (R),WY - at Large,515,13,Brian Kemp (R),Republican,Jon Ossoff (D),Democratic,2,TBD,TBD,3,
+Wyoming,IOU,Black Hills Corp,Harriet Hageman (R),WY - at Large,515,13,Brian Kemp (R),Republican,Jon Ossoff (D),Democratic,2,TBD,TBD,3,
+Wyoming,IOU,MDU Resources Group Inc,Harriet Hageman (R),WY - at Large,515,13,Brian Kemp (R),Republican,Jon Ossoff (D),Democratic,2,TBD,TBD,3,
+Wyoming,IOU,NorthWestern Corp,Harriet Hageman (R),WY - at Large,515,13,Brian Kemp (R),Republican,Jon Ossoff (D),Democratic,2,TBD,TBD,3,
+,,,,,515,13,Brian Kemp (R),Republican,Jon Ossoff (D),Democratic,2,TBD,TBD,3,
+,,,,,515,28,Tate Reeves (R),Republican,Roger Wicker (R),Republican,1,Cindy Hyde-Smith (R),Republican,2,2R
+,,,,,515,28,Tate Reeves (R),Republican,Roger Wicker (R),Republican,1,Cindy Hyde-Smith (R),Republican,2,2R
+,,,,,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+,,,,,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+,,,,,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+,,,,,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+,,,,,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+,,,,,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+,,,,,515,12,Ron DeSantis (R),Republican,Rick Scott (R),Republican,1,Marco Rubio (R),Republican,3,
+,,,,,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+,,,,,515,42,Josh Shapiro (D),Democratic,"Bob Casey, Jr. (D)",Democratic,1,John Fetterman (D),Democratic,3,2D
+,,,,,515,25,Maura Healey (D),Democratic,Elizabeth Warren (D),Democratic,1,Ed Markey (D),Democratic,2,2D
+,,,,,515,33,Chris Sununu (R),Republican,Jeanne Shaheen (D),Democratic,2,Maggie Hassan (D),Democratic,3,2D
+,,,,,515,33,Chris Sununu (R),Republican,Jeanne Shaheen (D),Democratic,2,Maggie Hassan (D),Democratic,3,2D
+,,,,,515,4,Katie Hobbs (D),Democratic,Kyrsten Sinema (D),Democratic,1,Mark Kelly (D),Democratic,3,2D
+,,,,,515,4,Katie Hobbs (D),Democratic,Kyrsten Sinema (D),Democratic,1,Mark Kelly (D),Democratic,3,2D
+,,,,,515,4,Katie Hobbs (D),Democratic,Kyrsten Sinema (D),Democratic,1,Mark Kelly (D),Democratic,3,2D
+,,,,,515,4,Katie Hobbs (D),Democratic,Kyrsten Sinema (D),Democratic,1,Mark Kelly (D),Democratic,3,2D
+,,,,,515,4,Katie Hobbs (D),Democratic,Kyrsten Sinema (D),Democratic,1,Mark Kelly (D),Democratic,3,2D
+,,,,,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+,,,,,515,23,Janet Mills (D),Democratic,Angus King (I),Independent,1,Susan Collins (R),Republican,2,1I1R
+,,,,,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+,,,,,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+,,,,,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+,,,,,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+,,,,,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+,,,,,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+,,,,,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+,,,,,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+,,,,,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+,,,,,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+,,,,,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+,,,,,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+,,,,,515,8,Jared Polis (D),Democratic,John Hickenlooper (D),Democratic,2,Michael Bennet (D),Democratic,3,2D
+,,,,,515,8,Jared Polis (D),Democratic,John Hickenlooper (D),Democratic,2,Michael Bennet (D),Democratic,3,2D
+,,,,,515,8,Jared Polis (D),Democratic,John Hickenlooper (D),Democratic,2,Michael Bennet (D),Democratic,3,2D
+,,,,,515,8,Jared Polis (D),Democratic,John Hickenlooper (D),Democratic,2,Michael Bennet (D),Democratic,3,2D
+,,,,,515,8,Jared Polis (D),Democratic,John Hickenlooper (D),Democratic,2,Michael Bennet (D),Democratic,3,2D
+,,,,,515,8,Jared Polis (D),Democratic,John Hickenlooper (D),Democratic,2,Michael Bennet (D),Democratic,3,2D
+,,,,,515,8,Jared Polis (D),Democratic,John Hickenlooper (D),Democratic,2,Michael Bennet (D),Democratic,3,2D
+,,,,,515,26,Gretchen Whitmer (D),Democratic,Debbie Stabenow (D),Democratic,1,Gary Peters (D),Democratic,2,2D
+,,,,,515,27,Tim Walz (DFL),Democratic,Amy Klobuchar (DFL),Democratic,1,Tina Smith (DFL),Democratic,2,2D
+,,,,,515,27,Tim Walz (DFL),Democratic,Amy Klobuchar (DFL),Democratic,1,Tina Smith (DFL),Democratic,2,2D
+,,,,,515,27,Tim Walz (DFL),Democratic,Amy Klobuchar (DFL),Democratic,1,Tina Smith (DFL),Democratic,2,2D
+,,,,,515,27,Tim Walz (DFL),Democratic,Amy Klobuchar (DFL),Democratic,1,Tina Smith (DFL),Democratic,2,2D
+,,,,,515,27,Tim Walz (DFL),Democratic,Amy Klobuchar (DFL),Democratic,1,Tina Smith (DFL),Democratic,2,2D
+,,,,,515,27,Tim Walz (DFL),Democratic,Amy Klobuchar (DFL),Democratic,1,Tina Smith (DFL),Democratic,2,2D
+,,,,,515,27,Tim Walz (DFL),Democratic,Amy Klobuchar (DFL),Democratic,1,Tina Smith (DFL),Democratic,2,2D
+,,,,,515,27,Tim Walz (DFL),Democratic,Amy Klobuchar (DFL),Democratic,1,Tina Smith (DFL),Democratic,2,2D
+,,,,,515,35,Michelle Lujan Grisham (D),Democratic,Martin Heinrich (D),Democratic,1,Ben Ray Lujan (D),Democratic,2,2D
+,,,,,515,35,Michelle Lujan Grisham (D),Democratic,Martin Heinrich (D),Democratic,1,Ben Ray Lujan (D),Democratic,2,2D
+,,,,,515,38,Doug Burgum (R),Republican,Kevin Cramer (R),Republican,1,John Hoeven (R),Republican,3,2R
+,,,,,515,40,Kevin Stitt (R),Republican,Markwayne Mullin (R),Republican,2,James Lankford (R),Republican,3,2R
+,,,,,515,46,Kristi Noem (R),Republican,Mike Rounds (R),Republican,2,John Thune (R),Republican,3,2R
+,,,,,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+,,,,,515,48,Greg Abbott (R),Republican,Ted Cruz (R),Republican,1,John Cornyn (R),Republican,2,2R
+,,,,,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
+,,,,,515,55,Tony Evers (D),Democratic,Tammy Baldwin (D),Democratic,1,Ron Johnson (R),Republican,3,1D1R
