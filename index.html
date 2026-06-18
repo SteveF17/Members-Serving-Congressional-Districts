@@ -6,7 +6,6 @@
   <title>Electric Service Territories</title>
 
   <link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css">
 
   <style>
     body {
@@ -14,65 +13,48 @@
       margin: 24px;
       background: #f7f7f7;
     }
-
     h1 {
       margin-bottom: 6px;
     }
-
     p {
       color: #555;
       margin-bottom: 16px;
     }
-
     .filters {
       margin-bottom: 16px;
       display: flex;
       gap: 12px;
       flex-wrap: wrap;
-      align-items: flex-start;
+      align-items: flex-end;
     }
-
     .filter-group {
       display: flex;
       flex-direction: column;
       gap: 4px;
-      min-width: 240px;
     }
-
     .filter-group label {
       font-size: 13px;
       color: #444;
       font-weight: 600;
     }
-
+    select {
+      padding: 6px;
+      min-width: 220px;
+    }
     button {
-      padding: 8px 12px;
+      padding: 7px 12px;
       cursor: pointer;
-      border: 1px solid #ccc;
-      background: white;
-      border-radius: 6px;
-      margin-top: 22px;
     }
-
-    button:hover {
-      background: #f0f0f0;
-    }
-
     table {
       background: white;
       border-radius: 8px;
       overflow: hidden;
     }
-
-    /* Make Choices fields look a little cleaner */
-    .choices__inner {
-      min-height: 42px;
-      background: #fff;
-    }
-
-    .choices[data-type*="select-multiple"] .choices__button,
-    .choices[data-type*="text"] .choices__button {
-      border-left: 1px solid rgba(0,0,0,0.15);
+    .note {
+      font-size: 12px;
+      color: #666;
+      margin-top: -6px;
+      margin-bottom: 16px;
     }
   </style>
 </head>
@@ -81,29 +63,30 @@
 
 <h1>Electric Service Territories in Congressional Districts</h1>
 <p>Search, filter, and explore the data</p>
+<div class="note">Tip: hold Ctrl (Windows) or Cmd (Mac) to select multiple items.</div>
 
 <div class="filters">
   <div class="filter-group">
     <label for="stateFilter">State</label>
-    <select id="stateFilter" multiple></select>
+    <select id="stateFilter" multiple size="6"></select>
   </div>
 
   <div class="filter-group">
     <label for="companyFilter">Company</label>
-    <select id="companyFilter" multiple></select>
+    <select id="companyFilter" multiple size="6"></select>
   </div>
 
   <div class="filter-group">
     <label for="affiliationFilter">Name_Part_Affiliation</label>
-    <select id="affiliationFilter" multiple></select>
+    <select id="affiliationFilter" multiple size="6"></select>
   </div>
 
   <div class="filter-group">
     <label for="districtFilter">District</label>
-    <select id="districtFilter" multiple></select>
+    <select id="districtFilter" multiple size="6"></select>
   </div>
 
-  <div class="filter-group" style="min-width: auto;">
+  <div class="filter-group">
     <label>&nbsp;</label>
     <button id="clearFilters" type="button">Clear Filters</button>
   </div>
@@ -114,7 +97,6 @@
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 <script src="https://cdn.datatables.net/2.0.8/js/dataTables.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
 
 <script>
 const csvUrl = "https://raw.githubusercontent.com/SteveF17/Members-Serving-Congressional-Districts/main/20260617_Electric%20Service%20Territories%20in%20Congressional%20Districts.csv";
@@ -159,8 +141,7 @@ Papa.parse(csvUrl, {
     }
 
     function populateFilter(id, colName) {
-      const select = document.getElementById(id);
-      if (!colName || !select) return;
+      if (!colName) return;
 
       const values = [...new Set(
         data
@@ -168,22 +149,19 @@ Papa.parse(csvUrl, {
           .filter(v => v !== null && v !== undefined && String(v).trim() !== "")
       )].sort((a, b) => String(a).localeCompare(String(b)));
 
+      const select = document.getElementById(id);
+
       values.forEach(v => {
         const opt = document.createElement("option");
-        opt.value = String(v);
-        opt.textContent = String(v);
+        opt.value = v;
+        opt.textContent = v;
         select.appendChild(opt);
       });
     }
 
-    function buildRegexFromSelections(selectId) {
+    function getSelectedValues(selectId) {
       const select = document.getElementById(selectId);
-      const selectedValues = Array.from(select.selectedOptions).map(opt => opt.value);
-
-      if (!selectedValues.length) return "";
-
-      const escaped = selectedValues.map(v => escapeRegex(v));
-      return "^(" + escaped.join("|") + ")$";
+      return Array.from(select.selectedOptions).map(opt => opt.value);
     }
 
     function applyMultiFilter(selectId, colName) {
@@ -192,13 +170,51 @@ Papa.parse(csvUrl, {
       const select = document.getElementById(selectId);
       const colIndex = cols.indexOf(colName);
 
-      if (colIndex === -1) return;
-
       select.addEventListener("change", function() {
-        const regex = buildRegexFromSelections(selectId);
+        const selectedValues = getSelectedValues(selectId);
+
+        if (!selectedValues.length) {
+          table.column(colIndex).search("", true, false).draw();
+          return;
+        }
+
+        const regex = "^(" + selectedValues.map(v => escapeRegex(v)).join("|") + ")$";
         table.column(colIndex).search(regex, true, false).draw();
       });
     }
 
-    // Populate select options
+    // Populate dropdowns
     populateFilter("stateFilter", stateCol);
+    populateFilter("companyFilter", companyCol);
+    populateFilter("affiliationFilter", affiliationCol);
+    populateFilter("districtFilter", districtCol);
+
+    // Apply filters
+    applyMultiFilter("stateFilter", stateCol);
+    applyMultiFilter("companyFilter", companyCol);
+    applyMultiFilter("affiliationFilter", affiliationCol);
+    applyMultiFilter("districtFilter", districtCol);
+
+    // Clear all filters
+    document.getElementById("clearFilters").addEventListener("click", function() {
+      ["stateFilter", "companyFilter", "affiliationFilter", "districtFilter"].forEach(id => {
+        const select = document.getElementById(id);
+        Array.from(select.options).forEach(opt => opt.selected = false);
+      });
+
+      table.columns().search("");
+      table.search("");
+      table.draw();
+    });
+
+    // Helpful console messages if a column is missing
+    if (!stateCol) console.warn("State column not found.");
+    if (!companyCol) console.warn("Company column not found.");
+    if (!affiliationCol) console.warn("Name_Part_Affiliation column not found.");
+    if (!districtCol) console.warn("District column not found.");
+  }
+});
+</script>
+
+</body>
+</html>
