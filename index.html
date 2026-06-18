@@ -25,10 +25,25 @@
       display: flex;
       gap: 12px;
       flex-wrap: wrap;
+      align-items: flex-end;
+    }
+    .filter-group {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    .filter-group label {
+      font-size: 13px;
+      color: #444;
+      font-weight: 600;
     }
     select {
       padding: 6px;
-      min-width: 200px;
+      min-width: 220px;
+    }
+    button {
+      padding: 7px 12px;
+      cursor: pointer;
     }
     table {
       background: white;
@@ -44,13 +59,38 @@
 <p>Search, filter, and explore the data</p>
 
 <div class="filters">
-  <select id="stateFilter">
-    <option value="">All States</option>
-  </select>
+  <div class="filter-group">
+    <label for="stateFilter">State</label>
+    <select id="stateFilter">
+      <option value="">All States</option>
+    </select>
+  </div>
 
-  <select id="districtFilter">
-    <option value="">All Districts</option>
-  </select>
+  <div class="filter-group">
+    <label for="companyFilter">Company</label>
+    <select id="companyFilter">
+      <option value="">All Companies</option>
+    </select>
+  </div>
+
+  <div class="filter-group">
+    <label for="affiliationFilter">Name_Part_Affiliation</label>
+    <select id="affiliationFilter">
+      <option value="">All Affiliations</option>
+    </select>
+  </div>
+
+  <div class="filter-group">
+    <label for="districtFilter">District</label>
+    <select id="districtFilter">
+      <option value="">All Districts</option>
+    </select>
+  </div>
+
+  <div class="filter-group">
+    <label>&nbsp;</label>
+    <button id="clearFilters" type="button">Clear Filters</button>
+  </div>
 </div>
 
 <table id="table" class="display"></table>
@@ -69,6 +109,11 @@ Papa.parse(csvUrl, {
   complete: function(results) {
 
     const data = results.data;
+    if (!data || !data.length) {
+      console.error("No data loaded from CSV.");
+      return;
+    }
+
     const columns = Object.keys(data[0]).map(col => ({
       title: col,
       data: col
@@ -83,14 +128,28 @@ Papa.parse(csvUrl, {
 
     const cols = Object.keys(data[0]);
 
+    // Flexible column matching
     const stateCol = cols.find(c => c.toLowerCase().includes("state"));
-    const districtCol = cols.find(c =>
-      c.toLowerCase().includes("district")
-    );
+    const districtCol = cols.find(c => c.toLowerCase() === "district") ||
+                        cols.find(c => c.toLowerCase().includes("district"));
+    const companyCol = cols.find(c => c.toLowerCase() === "company") ||
+                       cols.find(c => c.toLowerCase().includes("company"));
+    const affiliationCol = cols.find(c => c.toLowerCase() === "name_part_affiliation") ||
+                           cols.find(c => c.toLowerCase().includes("name_part_affiliation"));
+
+    function escapeRegex(value) {
+      return String(value).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
 
     function populateFilter(id, colName) {
       if (!colName) return;
-      const values = [...new Set(data.map(d => d[colName]).filter(Boolean))].sort();
+
+      const values = [...new Set(
+        data
+          .map(row => row[colName])
+          .filter(v => v !== null && v !== undefined && String(v).trim() !== "")
+      )].sort((a, b) => String(a).localeCompare(String(b)));
+
       const select = document.getElementById(id);
 
       values.forEach(v => {
@@ -101,21 +160,48 @@ Papa.parse(csvUrl, {
       });
     }
 
+    function applyFilter(selectId, colName) {
+      if (!colName) return;
+
+      const select = document.getElementById(selectId);
+      const colIndex = cols.indexOf(colName);
+
+      select.addEventListener("change", function() {
+        const searchValue = this.value
+          ? "^" + escapeRegex(this.value) + "$"
+          : "";
+        table.column(colIndex).search(searchValue, true, false).draw();
+      });
+    }
+
+    // Populate dropdowns
     populateFilter("stateFilter", stateCol);
+    populateFilter("companyFilter", companyCol);
+    populateFilter("affiliationFilter", affiliationCol);
     populateFilter("districtFilter", districtCol);
 
-    document.getElementById("stateFilter").addEventListener("change", function() {
-      if (!stateCol) return;
-      const i = cols.indexOf(stateCol);
-      table.column(i).search(this.value ? "^" + this.value + "$" : "", true, false).draw();
+    // Apply filters
+    applyFilter("stateFilter", stateCol);
+    applyFilter("companyFilter", companyCol);
+    applyFilter("affiliationFilter", affiliationCol);
+    applyFilter("districtFilter", districtCol);
+
+    // Clear all filters
+    document.getElementById("clearFilters").addEventListener("click", function() {
+      document.getElementById("stateFilter").value = "";
+      document.getElementById("companyFilter").value = "";
+      document.getElementById("affiliationFilter").value = "";
+      document.getElementById("districtFilter").value = "";
+
+      table.columns().search("");
+      table.search("");
+      table.draw();
     });
 
-    document.getElementById("districtFilter").addEventListener("change", function() {
-      if (!districtCol) return;
-      const i = cols.indexOf(districtCol);
-      table.column(i).search(this.value ? "^" + this.value + "$" : "", true, false).draw();
-    });
-
+    // Helpful console messages if a column is missing
+    if (!companyCol) console.warn("Company column not found.");
+    if (!affiliationCol) console.warn("Name_Part_Affiliation column not found.");
+    if (!districtCol) console.warn("District column not found.");
   }
 });
 </script>
