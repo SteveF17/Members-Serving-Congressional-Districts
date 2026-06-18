@@ -3,99 +3,122 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Electric Service Territories in Congressional Districts</title>
+  <title>Electric Service Territories</title>
 
-  <link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css" />
+  <link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css">
 
   <style>
     body {
       font-family: Arial, sans-serif;
       margin: 24px;
       background: #f7f7f7;
-      color: #222;
     }
-
     h1 {
       margin-bottom: 6px;
     }
-
     p {
       color: #555;
       margin-bottom: 16px;
     }
-
     .filters {
       margin-bottom: 16px;
       display: flex;
       gap: 12px;
       flex-wrap: wrap;
-      align-items: end;
     }
-
-    .filter-group {
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-
-    .filter-group label {
-      font-size: 14px;
-      font-weight: 600;
-    }
-
     select {
-      padding: 8px 10px;
-      min-width: 240px;
-      border: 1px solid #ccc;
-      border-radius: 6px;
-      background: white;
+      padding: 6px;
+      min-width: 200px;
     }
-
-    .table-wrap {
-      background: white;
-      padding: 16px;
-      border-radius: 10px;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
-    }
-
     table {
-      width: 100%;
-    }
-
-    button {
-      padding: 8px 12px;
-      border: 1px solid #ccc;
-      border-radius: 6px;
       background: white;
-      cursor: pointer;
-    }
-
-    button:hover {
-      background: #f0f0f0;
+      border-radius: 8px;
+      overflow: hidden;
     }
   </style>
 </head>
 
 <body>
 
-  <h1>Electric Service Territories in Congressional Districts</h1>
-  <p>Search, sort, and filter the data by Company, Name_Part_Affiliation, and District.</p>
+<h1>Electric Service Territories in Congressional Districts</h1>
+<p>Search, filter, and explore the data</p>
 
-  <div class="filters">
-    <div class="filter-group">
-      <label for="companyFilter">Company</label>
-      <select id="companyFilter">
-        <option value="">All Companies</option>
-      </select>
-    </div>
+<div class="filters">
+  <select id="stateFilter">
+    <option value="">All States</option>
+  </select>
 
-    <div class="filter-group">
-      <label for="affiliationFilter">Name_Part_Affiliation</label>
-      <select id="affiliationFilter">
-        <option value="">All Affiliations</option>
-      </select>
-    </div>
+  <select id="districtFilter">
+    <option value="">All Districts</option>
+  </select>
+</div>
 
-    <div class="filter-group">
-      <label for="districtFilter">District</label>
-      <select id="districtFilter">
+<table id="table" class="display"></table>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/2.0.8/js/dataTables.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
+<script>
+const csvUrl = "https://raw.githubusercontent.com/SteveF17/Members-Serving-Congressional-Districts/main/20260617_Electric%20Service%20Territories%20in%20Congressional%20Districts.csv";
+
+Papa.parse(csvUrl, {
+  download: true,
+  header: true,
+  skipEmptyLines: true,
+  complete: function(results) {
+
+    const data = results.data;
+    const columns = Object.keys(data[0]).map(col => ({
+      title: col,
+      data: col
+    }));
+
+    const table = new DataTable('#table', {
+      data: data,
+      columns: columns,
+      pageLength: 25,
+      scrollX: true
+    });
+
+    const cols = Object.keys(data[0]);
+
+    const stateCol = cols.find(c => c.toLowerCase().includes("state"));
+    const districtCol = cols.find(c =>
+      c.toLowerCase().includes("district")
+    );
+
+    function populateFilter(id, colName) {
+      if (!colName) return;
+      const values = [...new Set(data.map(d => d[colName]).filter(Boolean))].sort();
+      const select = document.getElementById(id);
+
+      values.forEach(v => {
+        const opt = document.createElement("option");
+        opt.value = v;
+        opt.textContent = v;
+        select.appendChild(opt);
+      });
+    }
+
+    populateFilter("stateFilter", stateCol);
+    populateFilter("districtFilter", districtCol);
+
+    document.getElementById("stateFilter").addEventListener("change", function() {
+      if (!stateCol) return;
+      const i = cols.indexOf(stateCol);
+      table.column(i).search(this.value ? "^" + this.value + "$" : "", true, false).draw();
+    });
+
+    document.getElementById("districtFilter").addEventListener("change", function() {
+      if (!districtCol) return;
+      const i = cols.indexOf(districtCol);
+      table.column(i).search(this.value ? "^" + this.value + "$" : "", true, false).draw();
+    });
+
+  }
+});
+</script>
+
+</body>
+</html>
